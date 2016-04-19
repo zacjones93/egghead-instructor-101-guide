@@ -1,3 +1,5 @@
 {
-    "plugins" : ["advanced-emoji"]
+  "title": "egghead.io Instructor 101",
+  "description": "This guide will help you on your journey to teaching on egghead.io.",
+  "plugins" : ["advanced-emoji"]
 }

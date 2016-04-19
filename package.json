@@ -4,7 +4,8 @@
   "description": "We want to help people build better software and level-up there careers as developers. We don't like long draw out lectures. We prefer to show instead of tell. We want to see the code, and not a slide show of bullet points.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gitbook build && git add ."
   },
   "keywords": [],
   "author": "",
