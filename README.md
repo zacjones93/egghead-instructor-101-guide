@@ -4,7 +4,7 @@ We want to help people build better software and level-up there careers as devel
 
 An egghead lesson respects the time of the person trying to learn something new. We are busy professionals, with a small amount of time to devote to the continued education required in the field of software development.
 
-Our mission is to make our users **badass**.
+Our mission is to make programmers **badass**.
 
 An egghead instructor is a working professional that builds software for a living. We aren't "embroidered polo shirt" trainers that spend more time teaching than doing.
 

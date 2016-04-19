@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.13.4",
-    "gitbook-plugin-advanced-emoji": "^0.1.6"
+    "express": "^4.13.4"
   }
 }
