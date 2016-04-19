@@ -117,7 +117,7 @@ This setup has 2 cables and a couple of knobs to get setup. We will go through e
 
 #### Microphone Boom
 
-![](http://www.bhphotovideo.com/images/images500x500/K_M_25900_500_55_259_Low_Tripod_Microphone_184848.jpg)
+![](https://s3.amazonaws.com/f.cl.ly/items/2y322s3t1z1c1L1t0E1N/Image%202016-04-19%20at%203.09.21%20PM.jpg?v=25fc2bea)
 
 This is a stand for the mic. They come in many shapes and sizes. This is a very nice one from Germany. It is sturdy and breaks down into 2 parts for easy storage in the box. It lets us pack everything we need into this case.
 
