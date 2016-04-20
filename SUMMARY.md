@@ -1,7 +1,7 @@
 * [You've been invited!](01-invited/invited.md)
   * [The Audition Video](01-invited/audition.md)
 * [Creating an egghead Lesson](02-creating-lessons/create-lessons.md)
-  * [Anatomy of a Wicked Awesome Lesson](02-creating-lessons/lesson-anatomy.md)
+  * [What's an Awesome Lesson?](02-creating-lessons/lesson-anatomy.md)
   * [Recording Hardware](02-creating-lessons/recording-gear.md)
   * [Recording Software](02-creating-lessons/software.md)
 * [Creating an egghead Course](03-creating-courses/create-courses.md)
