@@ -22,4 +22,14 @@ When we think of what an egghead.io instructor is we picture a person that loves
 
 If this sounds like you, keep reading. We are here to help you become an egghead instructor. We will tell you all of our "secrets", provide feedback, and guide you along the way to getting your first lesson published.
 
+## Getting invited to teach on egghead.io
+
+We are on the lookout for new instructors. People doing interesting things and showing those things to other people. We try to stay current on the state of web development, and what will be interesting to our subscribers in *6 months to a year* as well as **right now**.
+
+We read Github like the Daily News, checking out new libraries and tools. Pouring over new projects, looking at issues, and seeing what conversations are taking place.
+
+We also spend time on Twitter, Hacker News, and Reddit. Not to mention the various "_______ Weekly" email newsletters that keep us up to date about specific technologies as they emerge over time.
+
+But, we definitely don't catch everything! If you would like to make content and have it published on egghead.io, we accept "audition" videos. Read the guide to get an idea of what is expected, post it on YouTube and [send us a link on Twitter](https://twitter.com/eggheadio). 
+
 
