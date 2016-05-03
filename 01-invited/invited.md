@@ -10,6 +10,8 @@ You should have received two things. An invitation to the egghead Slack chat, an
 
 It is likely that the person that invited you to teach on egghead.io will also be your **mentor** and primary point of contact as you work towards getting your first lessons and courses published.
 
+> If you weren't invited to teach on egghead.io, continue reading! Follow the guidelines, review existing lessons, and record an "audition". Post that to YoutTube, and tweet [@eggheadio](https://twitter.com/eggheadio). 
+
 ## Your Mentor
 
 egghead.io doesn't have an open call for submissions for lessons. This means that you were invited by somebody to create a lesson. The person that invited you is **your mentor** (or will introduce you to your mentor)
