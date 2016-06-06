@@ -1,4 +1,4 @@
-# The Lesson Idea
+# The Lesson Concept
 
 > I can't think of anything to record! :cry:
 
@@ -8,14 +8,37 @@ It's also totally possible that looking at it like a blog post or short article 
 
 So let's take a look at what an "idea" is, and what we need to conjure up to create an awesome lesson on egghead.io
 
-## What makes a great idea?
+## What makes a great lesson?
 
 Well, first off, we are looking for **practical** lessons that help people perform real work. We want to ensure that we are respecting their time, and providing an answer to something specific in a concise way.
 
-Two things that very cleary let us know the strength of a lesson, before anything has even been recorded are:
+Three things that  cleary let us know the strength of a lesson, before any video has even been recorded are:
 
+* The example
 * The title
 * The summary
+
+### The example
+
+The example is the foundation that a good lesson is built on. A good example is simple, and doesn't require in depth knowledge of a specific domain. The example should be easy to run with very few simple steps. We want the example to run in Plunkr or JSBin where at all possible, to give the viewer the most immediate ability to edit and play.
+
+A good example might contain many lessons to fully describe, but an example of the right size won't get bogged down in the day to day repetition of create an "real-world" application. Keep it simple!
+
+There are several places to mine for ideas. 
+
+* Open Source Projects - if you work on an open source project, contribute to one, or even just have a favorite open source tool, this is often a great place to choose a theme for a lesson.
+* StackOverflow - this is a **trove** of pain from which to develop useful examples. A [quick search](http://stackoverflow.com/search?tab=votes&q=%5bjavascript%5d%20react) reveals questions and answers that would make excellent egghead lesson topics.
+* Your own education - are you learning something cool right now? The best way to solidify what you learn is to teach!
+
+You can make assumptions about what the viewers of your lesson will already know. We can jump ahead a bit, and not explain all of the fine details regarding setup. We can assume that a README will be provided that gets the user up and running quickly.
+
+The obvious exception here is when the lesson is focused on the setup itself. In this case, the design of the example will highlght the process or tool that you are trying to teach.
+
+**Don't worry if some egghead lesson exists or not.** This is not a blocker. We don't mind content that covers the same topic or subject.
+
+> Boy, egghead.io sure has too many lessons on the fundamentals of React!
+
+This was said by _nobody, ever_. We promise. We firmly believe that hard topics need the fundamentals covered by good examples. A lot of them. It helps people learn!
 
 ### A strong title is key!
 
