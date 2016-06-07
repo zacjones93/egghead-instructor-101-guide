@@ -25,3 +25,5 @@ It should have a list of lesson titles and short summaries for the proposed less
 Good lessons have good examples. We want to show the user a series of small, high-quality examples that serve the goal of the course. We are all here for the code, so lets deliver.
 
 ### Recording Lessons
+
+This is where I stopped writing for the day 😉

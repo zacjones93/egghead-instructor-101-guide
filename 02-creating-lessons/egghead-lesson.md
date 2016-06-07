@@ -23,11 +23,11 @@ Be sure to **show your work**. Show what you are doing. Use the mouse to guide t
 
 #### You're the hero!
 
-You're smart and know a lot of stuff. Did you always know all of the things? Nope. Can you remember any "aha!" moments in your own journey? Any particular author, blogger, or screencaster that has helped you? What was good about their content, and how can you pass that gift of knowledge along?
+You're smart and know a lot of stuff. Did you always know all of the things? Nope. Can you remember any "aha!" moments in your own journey? Any particular author, blogger, or screen caster that has helped you? What was good about their content, and how can you pass that gift of knowledge along?
 
 **Capture the "AHA!" moment** by showing the moment leading up to and directly after that point in time.
 
-Another example is when a tough Google search lands you on a StackOverflow question that matches the problem you are having right now. That well-constructed answer that is thorough, thoughtful, and comperhensive. The author of the answer is a **hero** in that moment.
+Another example is when a tough Google search lands you on a StackOverflow question that matches the problem you are having right now. That well-constructed answer that is thorough, thoughtful, and comprehensive. The author of the answer is a **hero** in that moment.
 
 You can **be that hero** to somebody else with your thorough, honest answer!
 
