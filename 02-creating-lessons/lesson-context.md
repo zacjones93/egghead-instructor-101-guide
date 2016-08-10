@@ -1,4 +1,4 @@
-## What is an egghead.io Lesson
+## The Lesson Context
 
 Teaching anything can be challenging. 
 

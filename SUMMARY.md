@@ -3,6 +3,7 @@
   * [Legal Business](01-invited/legal.md)
 * [Creating an egghead Lesson](02-creating-lessons/create-lessons.md)
   * [What's an egghead Lesson?](02-creating-lessons/egghead-lesson.md)
+  * [The Lesson Context](02-creating-lessons/lesson-context.md)
   * [The Lesson Concept](02-creating-lessons/ideas.md)
   * [Recording the Screen](02-creating-lessons/ideas.md)
   * [Recording Audio](02-creating-lessons/recording-gear.md)
