@@ -2,9 +2,9 @@
 
 Maybe you already know this, but if not, we are here to let you know that you are. Not only are you an expert, but your knowledge can be shared with others to help them improve their code, learn new technologies, and stay relevant in the world of software development.
 
-At egghead.io, we want to help people build better software and level-up there careers as developers. 
+At egghead.io, we want to help people build better software and level-up their careers as developers. 
 
-We don't like long draw out lectures. We prefer to show instead of tell. We want to see the code, and not a slide show of bullet points.
+We don't like long drawn out lectures. We prefer to show instead of tell. We want to see the code, and not a slide show of bullet points.
 
 An egghead lesson respects the time of the person trying to learn something new. We are busy professionals, with a small amount of time to devote to the continued education required in the field of software development.
 

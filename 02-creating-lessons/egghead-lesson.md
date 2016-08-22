@@ -11,9 +11,9 @@ A great lesson requires two things:
 
 Developers are busy people. We bet that you are a busy person, with lots going on personally and professionally. We have limited time to learn and teach, and often we learn because of an impending deadline. We don't have time to waste, and when a developer is watching an egghead video, they expect it to be concise, on target, and useful for their current situation.
 
-We want to deliver a well titled lesson that contains what the viewer will expect without a lot of surprise. A lesson called "creating routes in expressjs" shouldn't diverge and discuss a whiz-bang d3 pie chart that also happens to be in the example.
+We want to deliver a well titled lesson that contains what the viewer will expect without a lot of surprise. A lesson called "creating routes in Express" shouldn't diverge and discuss a whiz-bang D3.js pie chart that also happens to be in the example.
 
-Have you ever been to a conference or user group talk, and left slightly confused when the talk was over and wasn't what you were expecting. Was the title misleading? Maybe it was "link bait"? We don't want to surprise people that way. Your title and description for lessons will inform the viewer what to expect. Stick to that!
+Have you ever been to a conference or user group talk, and left slightly confused when the talk was over and wasn't what you were expecting? Was the title misleading? Maybe it was "link bait"? We don't want to surprise people that way. Your title and description for lessons will inform the viewer what to expect. Stick to that!
 
 We also don't need to spend time with formalities like greetings or personal introductions. It seems like a good idea, but most users are watching several videos. Do you say "hello my name is Kim" every 3 minutes when talking to a co-worker? 😳
 
@@ -27,7 +27,7 @@ You're smart and know a lot of stuff. Did you always know all of the things? Nop
 
 **Capture the "AHA!" moment** by showing the moment leading up to and directly after that point in time.
 
-Another example is when a tough Google search lands you on a StackOverflow question that matches the problem you are having right now. That well-constructed answer that is thorough, thoughtful, and comprehensive. The author of the answer is a **hero** in that moment.
+Another example is when a tough Google search lands you on a Stack Overflow question that matches the problem you are having right now. That well-constructed answer that is thorough, thoughtful, and comprehensive. The author of the answer is a **hero** in that moment.
 
 You can **be that hero** to somebody else with your thorough, honest answer!
 

@@ -1,4 +1,4 @@
-# You'e invited to teach on egghead.io
+# You're invited to teach on egghead.io
 
 Congrats! :tada:
 
@@ -10,7 +10,7 @@ You should have received two things. An invitation to the egghead Slack chat, an
 
 It is likely that the person that invited you to teach on egghead.io will also be your **mentor** and primary point of contact as you work towards getting your first lessons and courses published.
 
-> If you weren't invited to teach on egghead.io, continue reading! Follow the guidelines, review existing lessons, and record an "audition". Post that to YoutTube, and tweet [@eggheadio](https://twitter.com/eggheadio). 
+> If you weren't invited to teach on egghead.io, continue reading! Follow the guidelines, review existing lessons, and record an "audition". Post that to YouTube, and tweet [@eggheadio](https://twitter.com/eggheadio). 
 
 ## Your Mentor
 
@@ -32,9 +32,9 @@ There are several chats available. We're just going to talk about a few real qui
 
 ### egghead-chat
 
-This is the "watercooler" and general discussion area. When you enter the chat for the first time, please introduce yourself and maybe provide a link to something that you work on or the spot where you blog on the internet.
+This is the "water cooler" and general discussion area. When you enter the chat for the first time, please introduce yourself and maybe provide a link to something that you work on or the spot where you blog on the internet.
 
-The general chat can be a little noisey, so you might want to adjust your notification and do-not-distrub settings in Slack to match your preferences. 
+The general chat can be a little noisy, so you might want to adjust your notification and do-not-disturb settings in Slack to match your preferences. 
 
 The general chat is free to discuss anything you are interested in. We've got a [code of conduct]() that we ask all participants in the Slack channel to respect.
 

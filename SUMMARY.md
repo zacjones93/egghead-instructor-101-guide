@@ -5,6 +5,6 @@
   * [What's an egghead Lesson?](02-creating-lessons/egghead-lesson.md)
   * [The Lesson Context](02-creating-lessons/lesson-context.md)
   * [The Lesson Concept](02-creating-lessons/ideas.md)
-  * [Recording the Screen](02-creating-lessons/ideas.md)
+  * [Recording the Screen](02-creating-lessons/recording-the-screen.md)
   * [Recording Audio](02-creating-lessons/recording-gear.md)
 * [Creating an egghead Course](03-creating-courses/create-courses.md)
