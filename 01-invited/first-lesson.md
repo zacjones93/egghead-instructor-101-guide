@@ -18,7 +18,7 @@ On the other side of the coin, we need to determine where to stop! Knowing where
 
 At egghead, we strive for _laser focus_ on concepts. This is what is meant when we say "bite-sized" lessons. We want individual lessons to be as concise and as focused as possible, while showing the viewer all of the steps required.
 
-This means that you should be practical and thourough, respecting the viewers time, as well as your own.
+This means that you should be practical and thorough, respecting the viewers time, as well as your own.
 
 > "Is this more than one concept or idea?"
 
@@ -30,7 +30,7 @@ Most examples should work in a tool like [Plunkr](https://plnkr.co/), our prefer
 
 We will keep it simple! There is a reason the TODO list is such a popular example. It is "lame" and you might be bored of it, but simple examples (especially more common examples) are excellent for teaching. The more complex the example application, the more nuanced the **domain concerns** and the more time we have to spend covering that.
 
-If we work towards simplicity, and not put too much effort into creating a novel and fun example, we actually do a service for our viewers by maximising their learning efforts. We focus them on the concept we want them to teach, and more effectively cement it in their brain.
+If we work towards simplicity, and not put too much effort into creating a novel and fun example, we actually do a service for our viewers by maximising their learning efforts. We focus them on the concept we want them to learn, and more effectively cement it in their brain.
 
 **Small, high quality examples, in great frequency.**
 
@@ -54,7 +54,7 @@ _Update ref attributes._
 
 And then add the appropriate technology to the end such as "in React component." So "how do I..."
 
-_Update ref attributes in React components_ becomes the title of the lesson. This focuses the action on what the viewer should learn, and the title clearly defines the scope fo the example you will teach. "I want to...", "can I...", or other phrases would work here too!
+_Update ref attributes in React components_ becomes the title of the lesson. This focuses the action on what the viewer should learn, and the title clearly defines the scope for the example you will teach. "I want to...", "can I...", or other phrases would work here too!
 
 Now you want to write a quick summary. Think of the short block of text you see under a link when you are searching on Google. Literally think of that exact box, because the summary is for that space! 2-3 sentences that describe what we will learn in your lesson.
 
@@ -68,7 +68,7 @@ Totally normal!
 
 It also (thankfully) fades over time as you learn the skill of creating bite-sized video lessons.
 
-For an draft lesson, we aren't looking for polish. We want to see something quick and rough. 
+For a draft lesson, we aren't looking for polish. We want to see something quick and rough. 
 
 ### A very rough draft.
 
@@ -92,11 +92,11 @@ Mistakes are fine. We will need to restart, cough, kids will run through, train 
 
 Pause, and repeat where you were interrupted. Pauses are SO easy to edit out, and you should feel free to use them. **Pause a lot.**. Take a deep breath. Speak with confidence! You *are* the expert.
 
-Everyone want to hear what you have to say.
+Everyone wants to hear what you have to say.
 
 ### Upload Your Lesson
 
-Now that the draft is complete, share it with your mentor using DropBox or another similar service. Ask your mentor to screen share with you for the editing process, so that you can get some guidance as needed for the first pass. This can save **hours** trying to figure things out. 
+Now that the draft is complete, share it with your mentor using Slack. Ask your mentor to screen share with you for the editing process, so that you can get some guidance as needed for the first pass. This can save **hours** trying to figure things out. 
 
 Your mentor knows what we are looking for!
 
