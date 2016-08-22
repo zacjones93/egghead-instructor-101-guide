@@ -4,14 +4,15 @@
   "description": "We want to help people build better software and level-up there careers as developers. We don't like long draw out lectures. We prefer to show instead of tell. We want to see the code, and not a slide show of bullet points.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "gitbook build && git add ."
+    "start": "gitbook serve",
+    "build": "gitbook build"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.13.4",
+    "gitbook-cli": "^2.3.0",
     "gitbook-plugin-advanced-emoji": "^0.1.6",
     "gitbook-plugin-hints": "^1.0.1",
     "gitbook-plugin-prism": "^1.0.0"
