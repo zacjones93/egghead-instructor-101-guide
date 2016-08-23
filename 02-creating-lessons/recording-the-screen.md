@@ -30,8 +30,6 @@ Now that the screen is ready to record, we will look at how to do that on your p
 
 Here's a demo from egghead instructor Trevor D. Miller showing how he uses ScreenFlow:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9R2nl2wtB_4?list=PL219naRJXQKbQJ60WxsuGfTFv7_fvna51" frameborder="0" allowfullscreen></iframe>
-
 ### If you're on Windows...
 
 Camtasia
