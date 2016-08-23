@@ -28,7 +28,7 @@ Ask this question and discuss it with your mentor.
 
 Most examples should work in a tool like [Plunkr](https://plnkr.co/), our preferred tool for iterating on the first example. If the requirements of your topic are more complex we should discuss the scope and goals of the example and determine if we can simplify it. If it just can't be done on Plunkr, a Github repository will be used.
 
-We will keep it simple! There is a reason the TODO list is such a popular example. It is "lame" and you might be bored of it, but simple examples (especially more common examples) are excellent for teaching. The more complex the example application, the more nuanced the **domain concerns** and the more time we have to spend covering that.
+We will keep it simple! There is a reason the TODO list is such a popular example. It is "lame" and you might be bored of it, but simple examples \(especially more common examples\) are excellent for teaching. The more complex the example application, the more nuanced the **domain concerns** and the more time we have to spend covering that.
 
 If we work towards simplicity, and not put too much effort into creating a novel and fun example, we actually do a service for our viewers by maximising their learning efforts. We focus them on the concept we want them to learn, and more effectively cement it in their brain.
 
@@ -44,11 +44,11 @@ This will be a great time to brainstorm for ideas, and discuss more lessons that
 
 Don't be surprised if the scope of your example is cut back. Knowing what to leave out is a challenge, and we will aggressively work towards that conciseness that we crave at egghead. The lesson should cover one topic, and one topic only. No more, no less.
 
-### Choose a title and write a summary
+### Choose a title and write a summary {#how-do-i}
 
 Now that the example is in a good state, it's time to choose a title. Here's a formula for writing good titles.
 
-In your head (or out loud. Go nuts!) say the phrase "How do I..."
+In your head \(or out loud. Go nuts!\) say the phrase "How do I..."
 
 _Update ref attributes._
 
@@ -62,13 +62,13 @@ The summary and title aren't set in stone, we can iterate on those too, so don't
 
 ## Your First Lesson Video
 
-Making *anything* is an accomplishment. Creating screencasts is hard. It's a learned skill. It can feel weird. You can get the feeling of stage fright sitting in the comfort of your own home office staring at your monitor with nobody else in the room.
+Making _anything_ is an accomplishment. Creating screencasts is hard. It's a learned skill. It can feel weird. You can get the feeling of stage fright sitting in the comfort of your own home office staring at your monitor with nobody else in the room.
 
 Totally normal!
 
-It also (thankfully) fades over time as you learn the skill of creating bite-sized video lessons.
+It also \(thankfully\) fades over time as you learn the skill of creating bite-sized video lessons.
 
-For a draft lesson, we aren't looking for polish. We want to see something quick and rough. 
+For a draft lesson, we aren't looking for polish. We want to see something quick and rough.
 
 ### A very rough draft.
 
@@ -86,17 +86,17 @@ For now, don't worry about audio or video quality. We will send you professional
 
 Make mistakes! This might be new, and screencasting is most certainly a learned skill that gets easier with practice. This isn't a live presentation, and this draft won't be shared with the world.
 
-Mistakes are fine. We will need to restart, cough, kids will run through, train will roll by, you name it, it happens to everybody. 
+Mistakes are fine. We will need to restart, cough, kids will run through, train will roll by, you name it, it happens to everybody.
 
 **Just pause.**
 
-Pause, and repeat where you were interrupted. Pauses are SO easy to edit out, and you should feel free to use them. **Pause a lot.**. Take a deep breath. Speak with confidence! You *are* the expert.
+Pause, and repeat where you were interrupted. Pauses are SO easy to edit out, and you should feel free to use them. **Pause a lot.**. Take a deep breath. Speak with confidence! You _are_ the expert.
 
 Everyone wants to hear what you have to say.
 
 ### Upload Your Lesson
 
-Now that the draft is complete, share it with your mentor using Slack. Ask your mentor to screen share with you for the editing process, so that you can get some guidance as needed for the first pass. This can save **hours** trying to figure things out. 
+Now that the draft is complete, share it with your mentor using Slack. Ask your mentor to screen share with you for the editing process, so that you can get some guidance as needed for the first pass. This can save **hours** trying to figure things out.
 
 Your mentor knows what we are looking for!
 
