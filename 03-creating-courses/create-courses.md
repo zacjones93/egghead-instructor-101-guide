@@ -37,11 +37,13 @@ The course summary is a paragraph or two that describes the course, goals, techn
 
 Finally, we have the actual list of lessons that will be in the course. The list consists of **lesson titles and summaries** for each individual lesson. The title should follow [the "how do I..." format](/how-do-i), and the summary should summarize the goals and technology that the student will learn about in the lesson.
 
-## Creating Examples
+## Recording the Course
 
-Good lessons have good examples. We want to show the user a series of small, high-quality examples that serve the goal of the course. We are all here for the code, so lets deliver.
+With the prep you've done above, a lot of the hard work is done for creating a course. You can iterate on paper and build a solid curriculmn that will be useful for thousands of developers for years to come. Once your proposal has been approved, you can start recording the lessons and uploading them as you finished.
 
-## Recording Lessons
+It isn't required that you record and finish all of the lessons in a specific period of time. It can take quite some time to create a full course, so just get them done as you can.
 
-This is where I stopped writing for the day 😉
+You can read [the section on creating lessons](/02-creating-lessons/create-lessons.md) to get more details on that.
+
+## 
 

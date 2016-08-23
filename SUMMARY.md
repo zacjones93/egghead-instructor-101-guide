@@ -4,7 +4,7 @@
 * [You've been invited!](01-invited/invited.md)
     * [Your First Lesson](01-invited/first-lesson.md)
     * [Legal Business](01-invited/legal.md)
-* [Creating an egghead Lesson](02-creating-lessons/create-lessons.md)
+* [Making Lessons egghead.io Style](02-creating-lessons/create-lessons.md)
     * [What's an egghead Lesson?](02-creating-lessons/egghead-lesson.md)
     * [The Lesson Context](02-creating-lessons/lesson-context.md)
     * [The Lesson Concept](02-creating-lessons/ideas.md)
