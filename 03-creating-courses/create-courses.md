@@ -14,6 +14,7 @@ egghead.io courses have several styles. The most important aspects of a course a
 
 * **Cookbook**: You can also present a series of problems and solutions in the "cookbook" style. A typical recipe will include some common \(or maybe not so common\) problem, and then provide an example solution for the problem using the tool the cookbook is discussing. Trevor D. Miller's [React Testing Cookbook](https://egghead.io/courses/react-testing-cookbook) is a solid example of this approach.
 
+
 ## The Course Proposal
 
 A course is coupled with a written proposal in [this format](https://docs.google.com/document/d/1goXtI_zmSfXTgaimrxIss356DoedPRt5MMAySs1f-bE/edit). Here's [a blank template](https://docs.google.com/document/d/1x5_UehD9mM2jeCtlqEZFy3epDLLmbgBBGCow5fDRNCc/edit#) for you to use.
@@ -26,7 +27,7 @@ At the top of the course proposal is a "user story". This is similar to the agil
 
 ### Goals
 
-The second section of the course proposal consists of a list of goals for the course. What are we trying to teach? Why are we teaching it? What knowledge should the student walk away with? 
+The second section of the course proposal consists of a list of goals for the course. What are we trying to teach? Why are we teaching it? What knowledge should the student walk away with?
 
 ### Summary
 
@@ -34,7 +35,7 @@ The course summary is a paragraph or two that describes the course, goals, techn
 
 ### Lesson List
 
-Finally, we have the actual list of lessons that will be in the course. The list consists of **lesson titles and summaries** for each individual lesson. The title should follow the "how do I..." format, and the summary should summarize the goals and technology that the student will learn about in the lesson.
+Finally, we have the actual list of lessons that will be in the course. The list consists of **lesson titles and summaries** for each individual lesson. The title should follow [the "how do I..." format](/how-do-i), and the summary should summarize the goals and technology that the student will learn about in the lesson.
 
 ## Creating Examples
 

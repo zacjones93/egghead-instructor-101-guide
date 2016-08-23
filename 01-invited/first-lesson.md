@@ -44,21 +44,7 @@ This will be a great time to brainstorm for ideas, and discuss more lessons that
 
 Don't be surprised if the scope of your example is cut back. Knowing what to leave out is a challenge, and we will aggressively work towards that conciseness that we crave at egghead. The lesson should cover one topic, and one topic only. No more, no less.
 
-### Choose a title and write a summary {#how-do-i}
-
-Now that the example is in a good state, it's time to choose a title. Here's a formula for writing good titles.
-
-In your head \(or out loud. Go nuts!\) say the phrase "How do I..."
-
-_Update ref attributes._
-
-And then add the appropriate technology to the end such as "in React component." So "how do I..."
-
-_Update ref attributes in React components_ becomes the title of the lesson. This focuses the action on what the viewer should learn, and the title clearly defines the scope for the example you will teach. "I want to...", "can I...", or other phrases would work here too!
-
-Now you want to write a quick summary. Think of the short block of text you see under a link when you are searching on Google. Literally think of that exact box, because the summary is for that space! 2-3 sentences that describe what we will learn in your lesson.
-
-The summary and title aren't set in stone, we can iterate on those too, so don't worry. We aren't striving for perfection.
+###  {#how-do-i}
 
 ## Your First Lesson Video
 
