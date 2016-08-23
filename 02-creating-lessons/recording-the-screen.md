@@ -39,5 +39,4 @@ Camtasia
 
 ### If you're on Linux...
 
-Tears
-
+Tears :sob: 
