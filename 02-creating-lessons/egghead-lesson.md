@@ -5,6 +5,12 @@ A great lesson requires two things:
 * a desire to share knowledge
 * the patience to learn the process
 
+We aren't looking for new\/novel\/exciting ways to present and teach. egghead.io style is to record your screen and walk a collegue through a concept or feature. We don't use fancy video editing tricks or transitions beyond simply cutting out empty space, mistakes, and excessive "ummm"s and making sure the audio gain is at a consistent level.
+
+You can think about an egghead lesson like calling a coworker over to your desk to show them something cool that you just learned. Would you make a slide deck for them? Would you use star-dissolve transitions? Probably not!
+
+We aren't looking for that either. We want to see concise efficient knowledge transfer that respects **your** time, and the time of the student as well. Nothing fancy. We don't want fancy, we want badass. That's you. Teach us what you know.
+
 ### Three Pillars of egghead
 
 #### Respect the audience
@@ -40,3 +46,4 @@ Your first lesson will probably stink. It's a fact, and it is totally fine. Send
 Your time is **valuable** too. Don't waste it trying to figure everything out on your own. You've got your mentor, the egghead team, and dozens of fellow instructors willing and able to help you achieve success.
 
 We are here to help, and happy to do it!
+
