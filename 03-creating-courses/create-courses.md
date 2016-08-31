@@ -17,7 +17,18 @@ egghead.io courses have several styles. The most important aspects of a course a
 
 ## The Course Proposal
 
-A course is coupled with a written proposal in [this format](https://docs.google.com/document/d/1goXtI_zmSfXTgaimrxIss356DoedPRt5MMAySs1f-bE/edit). Here's [a blank template](https://docs.google.com/document/d/1x5_UehD9mM2jeCtlqEZFy3epDLLmbgBBGCow5fDRNCc/edit#) for you to use.
+For every egghead course we request (and require) a written proposal before the course starts production. We ask for proposals for several reasons. To make sure a course is solid, and delivers a ton of value to your students making the proposal lets us think more deeply about the content and structure of the course. This approach allows us to define the intent of the course, as well as craft [great titles](/02-creating-lessons/ideas.md) for the course and its lessons.
+
+[Here is an example of a course proposal](https://docs.google.com/document/d/1goXtI_zmSfXTgaimrxIss356DoedPRt5MMAySs1f-bE/edit), and here's [a blank template](https://docs.google.com/document/d/1x5_UehD9mM2jeCtlqEZFy3epDLLmbgBBGCow5fDRNCc/edit#) for you to use.
+
+The proposal consists of 4 parts:
+
+* User Story
+* Goals
+* Summary
+* List of Lessons
+
+We'll take a look at each of these parts in more detail.
 
 ### The User Story
 
