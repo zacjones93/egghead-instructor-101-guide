@@ -12,5 +12,6 @@
     * [The Lesson Concept](02-creating-lessons/ideas.md)
     * [Recording the Screen](02-creating-lessons/recording-the-screen.md)
     * [Recording Audio](02-creating-lessons/recording-gear.md)
+    * [Creating Lessons with Kent C. Dodds](02-creating-lessons/creating-lessons-with-kent-c-dodds.md)
 * [Creating an egghead Course](03-creating-courses/create-courses.md)
 
