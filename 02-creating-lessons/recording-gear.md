@@ -27,6 +27,10 @@ This is a stand for the mic. They come in many shapes and sizes. This is a very 
 
 Obviously an important piece of equipment! The [Shure BETA 87a mic](http://www.shure.com/americas/products/microphones/beta/beta-87a-vocal-microphone) is a `supercardioid` mic, which refers to how it pics up sound. It is forgiving and doesn't pick up ambient noise. Mics are interesting because you can go **very crazy** in terms of cost for marginal returns. We aren't producing NPR segments, and this mic is definitely in the "sounds very good" column. :thumbs\_up:
 
+Positioning of the mic is important. Here are the recommendations:
+
+![](https://d3vv6lp55qjaqc.cloudfront.net/items/3t2g240B2e223G1c1c3u/Screen%20Shot%202016-09-08%20at%201.37.22%20PM.png)
+
 #### Shock Mount
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/3B1c3U2a3V0O183f0s1g/Image%202016-04-19%20at%201.42.25%20PM.jpg?v=5cbc664a)
