@@ -29,7 +29,9 @@ Obviously an important piece of equipment! The [Shure BETA 87a mic](http://www.s
 
 Positioning of the mic is important. Here are the recommendations:
 
+
 ![](https://d3vv6lp55qjaqc.cloudfront.net/items/3t2g240B2e223G1c1c3u/Screen%20Shot%202016-09-08%20at%201.37.22%20PM.png)
+
 
 #### Shock Mount
 
