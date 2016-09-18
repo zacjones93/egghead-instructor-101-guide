@@ -1,12 +1,18 @@
 ### Audio Equipment
 
+Good audio starts with quality gear. You can definitely record screencasts using the built in microphone on your laptop, but we've found that our users want to have consistent high-quality audio.
+
 We want you to sound **amazing**! Because you are.
+
+To make this happen, we send each instructor professional grade audio recording equipment.
 
 Once you've created a draft lesson that is _almost_ ready to be published, we will ship you a case stuffed full of audio recording toys that will have you sounding awesome in no time.
 
 ![](https://d3vv6lp55qjaqc.cloudfront.net/items/3B3z1A0t1w333k3g0d44/the-kit.png?v=ac667563)
 
-* High Quality Floor Microphone Boom
+This kit is minimal, and comes packed in a waterproof Pelican case. The case contains:
+
+* K&M 259 Low Tripod Microphone Stand with Boom Arm 25900-500-55
 * Shure BETA 87A Microphone
 * Shock Mount to attach the mic to the stand
 * TASCAM US-2x2 USB Audio Interface
@@ -44,6 +50,12 @@ This little piece connects to the boom and the microphone slides into it before 
 ![](https://s3.amazonaws.com/f.cl.ly/items/3F0y1N3w2y3v0V1X1O3m/Image%202016-04-19%20at%201.41.32%20PM.jpg?v=4441d0b4)
 
 This mic is built for professional audio applications and not necessarily for capturing audio on a computer. To get from the mic to the computer we need an interface that will convert XLR analog signal into 1s and 0s for the computer to store. It has an XLR input \(2 actually\) and a USB output, from the mic and to the computer, respectively.
+
+* :zap: **The 48v power switch needs to be on!** 
+* :zap: **Turn the gain up!**
+* :zap: **Set to Mic/Line**
+
+
 
 #### XLR Cable
 
