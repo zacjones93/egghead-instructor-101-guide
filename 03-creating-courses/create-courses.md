@@ -8,7 +8,7 @@ For egghead, courses are the natural extension of the individual lesson. A cours
 
 Within a course, **each individual lesson should be as autonomous as possible**, covering its own individual topic as independently from the other lessons in the course.
 
-:zap: \*\*each lesson in a course should stand on its own as much as possible\*\*
+:zap:** each lesson in a course should stand on its own as much as possible**
 
 Tightly coupling lessons to a linear sequence is something we want to avoid with egghead.io courses. A student should be able to drop into any lesson in a course and learn a concept.
 
@@ -23,6 +23,7 @@ A course will include:
 * a robust summary that can include links to pre-requisites and otehr resources
 
 * course notes in the form of a gitbook the community can build together
+
 * an "enhanced transcript" that assembles all of the transcripts for a course into a usable document that allows the user to read the entire course as a book
 * the code is provided with each lesson representing its current state and has a readme describing how to execute the code if it isn't in a Plunker
 * individual lesson summaries with links, etc...
@@ -79,7 +80,7 @@ Finally, we have the actual list of lessons that will be in the course. The list
 
 Often a course has an example that is used as a connecting thread through each lesson. Course examples should be built as soon as possible and shared for discussion. Depending on the style of the course, different example formats are more appropriate for different styles. When possible, we want to use a tool like Plunker for creating and delivering our examples. It is awesome to get the user into the code as soon as possible.
 
-For each lesson in a course, the example will be provided in the **finished state of the lesson**. 
+For each lesson in a course, the example will be provided in the **finished state of the lesson**.
 
 Often it just isn't feasible for the example to be delivered in a Plunk. In those cases, we will generally prefer to use a Github repository to store the example code. Github repo examples will provide a **branch for each lesson**, where the branch is the completed state of the given lesson. If your course is the "cookbook" style and uses Github, you can just have folders in a single repo for each example.
 
@@ -101,7 +102,5 @@ There is a team working every day to review egghead.io courses and make sure tha
 
 This approach is very effective! There are times, however, where courses need to be updated. The review team will monitor and inform you of this when it occurs. We also tend to see a lot of questions and support requests around courses that have become out of date. In some circumstances, courses that aren't updated get retired.
 
-It's generally in your best interest to keep your course updated when needed! It's a pain, but if you do the math, it is completely worth it.
-
-
+It's in your best interest to keep your course updated when needed! It's a pain, but if you do the math, it is completely worth it.
 
