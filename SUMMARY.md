@@ -10,8 +10,8 @@
     * [What's an egghead Lesson?](02-creating-lessons/egghead-lesson.md)
     * [The Lesson Context](02-creating-lessons/lesson-context.md)
     * [The Lesson Concept](02-creating-lessons/ideas.md)
-    * [Audio Equipment](02-creating-lessons/recording-gear.md)
     * [Recording the Screencast](02-creating-lessons/recording-the-screen.md)
+    * [Audio Equipment](02-creating-lessons/recording-gear.md)
     * [Creating Lessons with Kent C. Dodds](02-creating-lessons/creating-lessons-with-kent-c-dodds.md)
 * [Creating an egghead Course](03-creating-courses/create-courses.md)
 

@@ -138,13 +138,13 @@ Record in "paragraphs" and pause.
 
 THis recording in small pieces and pausing is effectively editing while you record.
 
-:zap: record high quality content bites to avoid editing hassles
+:zap: **record high quality content bites to avoid editing hassles**
 
 You want to avoid a situation where you are doing intense editing to move audio and video snippets around to build a quilt like final product. **This** is the most tedious thing you could do to yourself, so by recording in small paragraph bites, you can get better takes, and by pausing inbetween each section, you can see visibly where you need to **ripple delete** and build your final product with minimal aggravation!
 
 You do want to go back and make sure you edit out mouth noises and excessive "um"s. If you find yourself having to edit these out, it might take some pre-thought to avoid including them in the first place. 
 
-:zap: the easiest way to edit is to capture it well  
+:zap: **the easiest way to edit is to capture it well ** 
 
 
 
