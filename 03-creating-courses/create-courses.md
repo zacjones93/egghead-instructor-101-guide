@@ -2,8 +2,31 @@
 
 Courses are what people truly love to watch. Humans desire information in chunks. They want to learn a topic in depth, but at a pace that works for them.
 
-For egghead, courses are the natural extension of the individual lesson. A course is a composed set of bite-sized lessons. The course itself should be bite-sized, covering a single topic in depth through a sequence of individual lessons. Within a course, each individual lesson should be as autonomous as possible, covering its own individual topic as independently from the other lessons in the course.
+For egghead, courses are the natural extension of the individual lesson. A course is a composed set of bite-sized lessons. The course itself should be bite-sized, covering a single topic in depth through a sequence of individual lessons. 
 
+## Lesson Autonomy
+
+Within a course, **each individual lesson should be as autonomous as possible**, covering its own individual topic as independently from the other lessons in the course.
+
+:zap: \*\*each lesson in a course should stand on its own as much as possible\*\*
+
+Tightly coupling lessons to a linear sequence is something we want to avoid with egghead.io courses. A student should be able to drop into any lesson in a course and learn a concept. 
+
+> I have to provide context! The example is built step by step. The student will be confused.
+
+This is a fair statement, but we are going to consider an alternative approach. Instead of speaking to the user about the context we will **provide context around the video within it's HTML page the user is watching it on**.
+
+A course will include:
+
+* a list of all the other lessons in the course
+
+* a robust summary that can include links to pre-requisites and otehr resources
+* course notes in the form of a gitbook the community can build together
+* an "enhanced transcript" that assembles all of the transcripts for a course into a usable document that allows the user to read the entire course as a book
+* the code is provided with each lesson representing its current state and has a readme describing how to execute the code if it isn't in a Plunker
+* individual lesson summaries with links, etc...
+
+If you consider this context that the user is supplied, it makes the automous course within a lesson much easier to realize. We don't have to provide audio describing the context. Avoid saying "in the previous lesson" or "in a future lesson" - just get right into the concept of the lesson you are currently teaching! It makes a much nicer course that is more concise and allows for modular learning with minimal confusion.
 ## Course Styles
 
 egghead.io courses have several styles. The most important aspects of a course are focus and high quality examples. If you have those two things, the style doesn't matter. It definitely helps to have a plan though, and the following are excellent places to start.
@@ -17,7 +40,7 @@ egghead.io courses have several styles. The most important aspects of a course a
 
 ## The Course Proposal
 
-For every egghead course we request (and require) a written proposal before the course starts production. We ask for proposals for several reasons. To make sure a course is solid, and delivers a ton of value to your students making the proposal lets us think more deeply about the content and structure of the course. This approach allows us to define the intent of the course, as well as craft [great titles](/02-creating-lessons/ideas.md) for the course and its lessons.
+For every egghead course we request \(and require\) a written proposal before the course starts production. We ask for proposals for several reasons. To make sure a course is solid, and delivers a ton of value to your students making the proposal lets us think more deeply about the content and structure of the course. This approach allows us to define the intent of the course, as well as craft [great titles](/02-creating-lessons/ideas.md) for the course and its lessons.
 
 [Here is an example of a course proposal](https://docs.google.com/document/d/1goXtI_zmSfXTgaimrxIss356DoedPRt5MMAySs1f-bE/edit), and here's [a blank template](https://docs.google.com/document/d/1x5_UehD9mM2jeCtlqEZFy3epDLLmbgBBGCow5fDRNCc/edit#) for you to use.
 
@@ -50,11 +73,9 @@ Finally, we have the actual list of lessons that will be in the course. The list
 
 ## Recording the Course
 
-With the prep you've done above, a lot of the hard work is done for creating a course. You can iterate on paper and build a solid curriculmn that will be useful for thousands of developers for years to come. Once your proposal has been approved, you can start recording the lessons and uploading them as you finished.
+With the prep you've done above, a lot of the hard work is done for creating a course. You can iterate on paper and build a solid curriculmn that will be useful for thousands of developers for years to come. Once your proposal has been reviewed and approved, you can start recording the lessons and uploading them as you finished.
 
-It isn't required that you record and finish all of the lessons in a specific period of time. It can take quite some time to create a full course, so just get them done as you can.
+If you haven't, we recommend you read [the section on creating lessons](/02-creating-lessons/create-lessons.md) to get more details on recording screencasts. A course is a series of lessons, recorded one by one. It's like stacking bricks.
 
-You can read [the section on creating lessons](/02-creating-lessons/create-lessons.md) to get more details on that.
 
-## 
 
