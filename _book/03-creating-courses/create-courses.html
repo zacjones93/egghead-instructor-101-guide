@@ -55,7 +55,7 @@
         data-chapter-title="Creating an egghead Course"
         data-filepath="03-creating-courses/create-courses.md"
         data-basepath=".."
-        data-revision="Sun Sep 18 2016 16:07:01 GMT-0700 (PDT)"
+        data-revision="Sun Sep 18 2016 16:08:13 GMT-0700 (PDT)"
         data-innerlanguage="">
     
 
@@ -326,11 +326,11 @@
                     
                         <h2 id="creating-courses">Creating Courses</h2>
 <p>Courses are what people truly love to watch. Humans desire information in chunks. They want to learn a topic in depth, but at a pace that works for them.</p>
-<p>For egghead, courses are the natural extension of the individual lesson. A course is a composed set of bite-sized lessons. The course itself should be bite-sized, covering a single topic in depth through a sequence of individual lessons. </p>
+<p>For egghead, courses are the natural extension of the individual lesson. A course is a composed set of bite-sized lessons. The course itself should be bite-sized, covering a single topic in depth through a sequence of individual lessons.</p>
 <h2 id="lesson-autonomy">Lesson Autonomy</h2>
 <p>Within a course, <strong>each individual lesson should be as autonomous as possible</strong>, covering its own individual topic as independently from the other lessons in the course.</p>
 <p><img align="absmiddle" alt=":zap:" class="emoji" src="../gitbook/plugins/gitbook-plugin-advanced-emoji/emojis/zap.png" title=":zap:"> **each lesson in a course should stand on its own as much as possible**</p>
-<p>Tightly coupling lessons to a linear sequence is something we want to avoid with egghead.io courses. A student should be able to drop into any lesson in a course and learn a concept. </p>
+<p>Tightly coupling lessons to a linear sequence is something we want to avoid with egghead.io courses. A student should be able to drop into any lesson in a course and learn a concept.</p>
 <blockquote>
 <p>I have to provide context! The example is built step by step. The student will be confused.</p>
 </blockquote>
@@ -341,7 +341,8 @@
 </li>
 <li><p>a robust summary that can include links to pre-requisites and otehr resources</p>
 </li>
-<li>course notes in the form of a gitbook the community can build together</li>
+<li><p>course notes in the form of a gitbook the community can build together</p>
+</li>
 <li>an &quot;enhanced transcript&quot; that assembles all of the transcripts for a course into a usable document that allows the user to read the entire course as a book</li>
 <li>the code is provided with each lesson representing its current state and has a readme describing how to execute the code if it isn&apos;t in a Plunker</li>
 <li>individual lesson summaries with links, etc...</li>
@@ -360,6 +361,7 @@
 <h2 id="the-course-proposal">The Course Proposal</h2>
 <p>For every egghead course we request (and require) a written proposal before the course starts production. We ask for proposals for several reasons. To make sure a course is solid, and delivers a ton of value to your students making the proposal lets us think more deeply about the content and structure of the course. This approach allows us to define the intent of the course, as well as craft <a href="02-creating-lessons/ideas.md">great titles</a> for the course and its lessons.</p>
 <p><a href="https://docs.google.com/document/d/1goXtI_zmSfXTgaimrxIss356DoedPRt5MMAySs1f-bE/edit" target="_blank">Here is an example of a course proposal</a>, and here&apos;s <a href="https://docs.google.com/document/d/1x5_UehD9mM2jeCtlqEZFy3epDLLmbgBBGCow5fDRNCc/edit#" target="_blank">a blank template</a> for you to use.</p>
+<p><strong>We strongly prefer to use Google Docs for proposals to facilitate collaboration! </strong>The document should be shared with your mentor and other reviewers for feedback.</p>
 <p>The proposal consists of 4 parts:</p>
 <ul>
 <li>User Story</li>
@@ -379,9 +381,20 @@
 <p>The course summary is a paragraph or two that describes the course, goals, technology, etc. This will generally be preseneted with the course on the website, so it should keep that in mind.</p>
 <h3 id="lesson-list">Lesson List</h3>
 <p>Finally, we have the actual list of lessons that will be in the course. The list consists of <strong>lesson titles and summaries</strong> for each individual lesson. The title should follow <a href="how-do-i">the &quot;how do I...&quot; format</a>, and the summary should summarize the goals and technology that the student will learn about in the lesson.</p>
+<h2 id="the-examples">The Examples</h2>
+<p>Often a course has an example that is used as a connecting thread through each lesson. Course examples should be built as soon as possible and shared for discussion. Depending on the style of the course, different example formats are more appropriate for different styles. When possible, we want to use a tool like Plunker for creating and delivering our examples. It is awesome to get the user into the code as soon as possible.</p>
+<p>For each lesson in a course, the example will be provided in the <strong>finished state of the lesson</strong>. </p>
+<p>Often it just isn&apos;t feasible for the example to be delivered in a Plunk. In those cases, we will generally prefer to use a Github repository to store the example code. Github repo examples will provide a <strong>branch for each lesson</strong>, where the branch is the completed state of the given lesson. If your course is the &quot;cookbook&quot; style and uses Github, you can just have folders in a single repo for each example.</p>
 <h2 id="recording-the-course">Recording the Course</h2>
 <p>With the prep you&apos;ve done above, a lot of the hard work is done for creating a course. You can iterate on paper and build a solid curriculmn that will be useful for thousands of developers for years to come. Once your proposal has been reviewed and approved, you can start recording the lessons and uploading them as you finished.</p>
 <p>If you haven&apos;t, we recommend you read <a href="02-creating-lessons/create-lessons.md">the section on creating lessons</a> to get more details on recording screencasts. A course is a series of lessons, recorded one by one. It&apos;s like stacking bricks.</p>
+<h2 id="maintaining-the-course">Maintaining the Course</h2>
+<p>&quot;JavaScript Fatigue&quot;</p>
+<p>You&apos;ve probably heard of this. Well, it affects egghead.io courses. Video is a tough format, and because libraries move at a brisk pace and forward progress is always happening, we are presented with some specific challenges in terms of keeping courses up to date and usable.</p>
+<p>We make a very strong effort to keep your course as viable as possible for as long as possible.</p>
+<p>There is a team working every day to review egghead.io courses and make sure that the code and examples are current and still work. The review team reviews the lessons on egghead.io, and makes sure that they still function with the latest versions of the tools described in the lessons. They update the code and attach version labels to help students understand the differences between the lesson video and the code.</p>
+<p>This approach is very effective! There are times, however, where courses need to be updated. The review team will monitor and inform you of this when it occurs. We also tend to see a lot of questions and support requests around courses that have become out of date. In some circumstances, courses that aren&apos;t updated get retired.</p>
+<p>It&apos;s generally in your best interest to keep your course updated when needed! It&apos;s a pain, but if you do the math, it is completely worth it.</p>
 
                     
                     </section>
