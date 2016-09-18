@@ -55,7 +55,7 @@
         data-chapter-title="Creating an egghead Course"
         data-filepath="03-creating-courses/create-courses.md"
         data-basepath=".."
-        data-revision="Sun Sep 18 2016 15:37:06 GMT-0700 (PDT)"
+        data-revision="Sun Sep 18 2016 16:07:01 GMT-0700 (PDT)"
         data-innerlanguage="">
     
 
@@ -326,7 +326,27 @@
                     
                         <h2 id="creating-courses">Creating Courses</h2>
 <p>Courses are what people truly love to watch. Humans desire information in chunks. They want to learn a topic in depth, but at a pace that works for them.</p>
-<p>For egghead, courses are the natural extension of the individual lesson. A course is a composed set of bite-sized lessons. The course itself should be bite-sized, covering a single topic in depth through a sequence of individual lessons. Within a course, each individual lesson should be as autonomous as possible, covering its own individual topic as independently from the other lessons in the course.</p>
+<p>For egghead, courses are the natural extension of the individual lesson. A course is a composed set of bite-sized lessons. The course itself should be bite-sized, covering a single topic in depth through a sequence of individual lessons. </p>
+<h2 id="lesson-autonomy">Lesson Autonomy</h2>
+<p>Within a course, <strong>each individual lesson should be as autonomous as possible</strong>, covering its own individual topic as independently from the other lessons in the course.</p>
+<p><img align="absmiddle" alt=":zap:" class="emoji" src="../gitbook/plugins/gitbook-plugin-advanced-emoji/emojis/zap.png" title=":zap:"> **each lesson in a course should stand on its own as much as possible**</p>
+<p>Tightly coupling lessons to a linear sequence is something we want to avoid with egghead.io courses. A student should be able to drop into any lesson in a course and learn a concept. </p>
+<blockquote>
+<p>I have to provide context! The example is built step by step. The student will be confused.</p>
+</blockquote>
+<p>This is a fair statement, but we are going to consider an alternative approach. Instead of speaking to the user about the context we will <strong>provide context around the video within it&apos;s HTML page the user is watching it on</strong>.</p>
+<p>A course will include:</p>
+<ul>
+<li><p>a list of all the other lessons in the course</p>
+</li>
+<li><p>a robust summary that can include links to pre-requisites and otehr resources</p>
+</li>
+<li>course notes in the form of a gitbook the community can build together</li>
+<li>an &quot;enhanced transcript&quot; that assembles all of the transcripts for a course into a usable document that allows the user to read the entire course as a book</li>
+<li>the code is provided with each lesson representing its current state and has a readme describing how to execute the code if it isn&apos;t in a Plunker</li>
+<li>individual lesson summaries with links, etc...</li>
+</ul>
+<p>If you consider this context that the user is supplied, it makes the automous course within a lesson much easier to realize. We don&apos;t have to provide audio describing the context. Avoid saying &quot;in the previous lesson&quot; or &quot;in a future lesson&quot; - just get right into the concept of the lesson you are currently teaching! It makes a much nicer course that is more concise and allows for modular learning with minimal confusion.</p>
 <h2 id="course-styles">Course Styles</h2>
 <p>egghead.io courses have several styles. The most important aspects of a course are focus and high quality examples. If you have those two things, the style doesn&apos;t matter. It definitely helps to have a plan though, and the following are excellent places to start.</p>
 <ul>
@@ -360,10 +380,8 @@
 <h3 id="lesson-list">Lesson List</h3>
 <p>Finally, we have the actual list of lessons that will be in the course. The list consists of <strong>lesson titles and summaries</strong> for each individual lesson. The title should follow <a href="how-do-i">the &quot;how do I...&quot; format</a>, and the summary should summarize the goals and technology that the student will learn about in the lesson.</p>
 <h2 id="recording-the-course">Recording the Course</h2>
-<p>With the prep you&apos;ve done above, a lot of the hard work is done for creating a course. You can iterate on paper and build a solid curriculmn that will be useful for thousands of developers for years to come. Once your proposal has been approved, you can start recording the lessons and uploading them as you finished.</p>
-<p>It isn&apos;t required that you record and finish all of the lessons in a specific period of time. It can take quite some time to create a full course, so just get them done as you can.</p>
-<p>You can read <a href="02-creating-lessons/create-lessons.md">the section on creating lessons</a> to get more details on that.</p>
-<h2 id=""> </h2>
+<p>With the prep you&apos;ve done above, a lot of the hard work is done for creating a course. You can iterate on paper and build a solid curriculmn that will be useful for thousands of developers for years to come. Once your proposal has been reviewed and approved, you can start recording the lessons and uploading them as you finished.</p>
+<p>If you haven&apos;t, we recommend you read <a href="02-creating-lessons/create-lessons.md">the section on creating lessons</a> to get more details on recording screencasts. A course is a series of lessons, recorded one by one. It&apos;s like stacking bricks.</p>
 
                     
                     </section>
