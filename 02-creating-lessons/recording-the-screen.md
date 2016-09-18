@@ -39,6 +39,8 @@ We deliver content at 720p \(1280x720 in pixels\). We want this to be a crips an
 HiDPI mode is also known as Retina Display on macs or DPI scaling more broadly. This allows us to view very high resolutions with readable text, by effectively doubling each pixel.
 
 ![retina image comparison](https://d3vv6lp55qjaqc.cloudfront.net/items/1K0v27373N2s0N3O0N1B/Image%202016-09-18%20at%202.27.08%20PM.png?v=aebac42f)
+
+
 _image from [designmodo.com](http://designmodo.com/wp-content/uploads/2013/01/retinaComparison.png)_
 
 #### DPI Scaling on Windows
