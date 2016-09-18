@@ -22,17 +22,17 @@ Small fonts, blurry text, and low-contrast color schemes all dtract and distract
 
 To that end, it deserves **maximum** horizontal space. It is a good idea to use an 80 or 120 character "column" for the code and bump the font size up to fit.
 
-We will typically work in a 3 column layout, with the editor taking up 2\/3s and a browser on the right side in the remaining 1\/3 of the screen. You might prefer to flip back and forth between the browser and the editor, it is up to you.
+We will typically work in a 3 column layout, with the editor taking up 2/3s and a browser on the right side in the remaining 1/3 of the screen. You might prefer to flip back and forth between the browser and the editor, it is up to you.
 
-It is important to keep in mind that some padding allowances should be considered for the top and bottom of the recording window, as they can get cut off by player chrome. For instance, if you're recording the terminal, commands towards the bottom might not be visible, and this can be frustrating\/distracting.
+It is important to keep in mind that some padding allowances should be considered for the top and bottom of the recording window, as they can get cut off by player chrome. For instance, if you're recording the terminal, commands towards the bottom might not be visible, and this can be frustrating/distracting.
 
 ### Resolution
 
-* 1280x720 \(720p\)
+* 1280x720 (720p)
 * 16:9 Aspect Ratio
 * Stereo audio
 
-We deliver content at 720p \(1280x720 in pixels\). We want this to be a crips and legible output for the user. We want egghead.io lessons to present well when expanded fullscreen on a 65" TV screen or watched on the bus on a phone.
+We deliver content at 720p (1280x720 in pixels). We want this to be a crisp and legible output for the user. We want egghead.io lessons to present well when expanded fullscreen on a 65" TV screen or watched on the bus on a phone.
 
 ⚡️ **For best results, we use HiDPI mode on our monitors.**
 
@@ -53,7 +53,7 @@ Using DPI scaling features is nice because you can scale the OS chrome and make 
 
 #### HiDPI Mode on macOS
 
-On Mac, we've gotten the best results when we record at **1280x720\(HiDPI\)** mode, giving an effective visible resolution of 1280x720, but **extremely** crisp. This resolution is achievable on 27" monitors and retina MBPs.
+On Mac, we've gotten the best results when we record at **1280x720(HiDPI)** mode, giving an effective visible resolution of 1280x720, but **extremely** crisp. This resolution is achievable on 27" monitors and retina MBPs.
 
 It's "hidden" by default, and the easiest way to achieve this resolution on a mac is with a software tool that exposes the option.
 
@@ -61,7 +61,7 @@ To enable HiDPI, we use the [RDM tool](https://github.com/avibrazil/RDM). On ret
 
 ![hidpi mode with RDM tool](https://s3.amazonaws.com/f.cl.ly/items/1b3t3O1p1k3s2w171104/slack-imgs.com.png)
 
-Using HiDPI mode gives an extremely crisp final product that looks fantastic \(readable\) on phones and tablets.
+Using HiDPI mode gives an extremely crisp final product that looks fantastic (readable) on phones and tablets.
 
 Another application that works well is [SwitchRezX](http://www.madrau.com/srx_download/download.html). It's shareware and requires a fee if it is useful.
 
