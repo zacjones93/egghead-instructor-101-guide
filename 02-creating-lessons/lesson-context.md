@@ -53,6 +53,24 @@ As much as possible try to avoid referencing other lessons. "In the next lesson.
 
 If you do need to reference a prerequisite lesson, link to it in the description!
 
+## You are the expert. Instruct.
+
+Instructors are here to instruct. People come to egghead.io lessons and courses ready to be told what they need to do. We aren't making a sales pitch trying to convince them that we are correct and the technology is right for them. We are instructing them on how to do something, how to accomplish a task.
+
+We are going to demonstrate how use a feature or concept by **showing** instead of telling. 
+
+![how to wash your hands](https://d3vv6lp55qjaqc.cloudfront.net/items/163A1x3y1Z032V182t3q/Screen%20Shot%202016-09-19%20at%2010.45.22%20AM.png?v=1b78061e)
+
+Being concise often means adjusting how we approach the language we use. An egghead.io lesson attempts to be concise. This often means that we want to favor an active vs passive voice in how we deliver instruction.
+
+> Hello, before we get started using Webpack you are going to need to install node. We are going to visit this URL and find the link to install it. Now we press "download" and we should get a file. We can now open that file and extract it's contents. Now that node is installed we can use npm to install webpack globally. Great, now that webpack is installed globally we can use it! Open up Sublime or your favorite editor to start working on the config.
+
+_vs._
+
+> We've got node already installed. Use npm to install webpack. Now run init and open the config to edit it.
+
+We don't have to explain or justify the each step in the instruction. We can assume that we are delivering content to smart, capable humans that can fill in some blanks.
+
 ## The soul of an egghead.io lesson.
 
 An egghead lesson is a precise discussion of a single topic. It stands alone. It has no side effects. It is like a *pure function*.
