@@ -118,7 +118,7 @@ There are effectively three ways that you can record your screencasts.
 
 :zap: **all of these approaches are valid.**
 
-There are instructors that prefer each of these approaches. All at once is arguably the simplese approach, as you can just type and record the screen and don't have to think about the video and audio separately.
+There are instructors that prefer each of these approaches. All at once is arguably the simplest approach, as you can just type and record the screen and don't have to think about the video and audio separately.
 
 When you record the audio first, you can playback the audio and record video to match. On the flip side, with video recorded first you can narrate over video playback.
 
