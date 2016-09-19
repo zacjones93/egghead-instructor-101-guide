@@ -10,11 +10,11 @@ We want screencasts that are top notch, and provide a baseline level of quality 
 
 This doesn't mean we want you to not be you. On the contrary, we want your style to flourish and be ever present in your egghead.io lessons.
 
-This is about mechanics! The technical aspects of presentation and accessibility. Our goal is to present lessons that are clear and provide the maximum clarity and visiblilty. Video by nature is a restrictive format. We have to consider a wide range of people that will want to view this content.
+This is about mechanics! The technical aspects of presentation and accessibility. Our goal is to present lessons that are clear and provide the maximum clarity and visibility. Video by nature is a restrictive format. We have to consider a wide range of people that will want to view this content.
 
 If we maximize the legibility of the code we are presenting, it will help all learners to absorb the information to the best of their abilities.
 
-Small fonts, blurry text, and low-contrast color schemes all dtract and distract the user from the primary object: learning.
+Small fonts, blurry text, and low-contrast color schemes all distract and distract the user from the primary object: learning.
 
 ### The Code
 
@@ -118,7 +118,7 @@ There are effectively three ways that you can record your screencasts.
 
 :zap: **all of these approaches are valid.**
 
-There are instructors that prefer each of these approaches. All at once is arguably the simplese approach, as you can just type and record the screen and don't have to think about the video and audio separately. 
+There are instructors that prefer each of these approaches. All at once is arguably the simplese approach, as you can just type and record the screen and don't have to think about the video and audio separately.
 
 When you record the audio first, you can playback the audio and record video to match. On the flip side, with video recorded first you can narrate over video playback.
 
@@ -132,40 +132,18 @@ Editing is a skill. It takes time to become proficient, and it can be tedious un
 
 Here's the first YouTube tutorial Google kicks back on [ripple delete](https://www.youtube.com/watch?v=Fks7ABBnb0I).
 
-If there is one tool you will use forever when editing video it's ripple delete. 
+If there is one tool you will use forever when editing video it's ripple delete.
 
-To take fool advantage of ripple delete the recommendation we give people is to **record in small sections**. Don't try to be Snoop Dogg. _You are not the 1-take dizzle my shizzle_.
+To take full advantage of ripple delete the recommendation we give people is to **record in small sections**. Don't try to be Snoop Dogg. _You are not the 1-take dizzle my shizzle_.
 
 Record in "paragraphs" and pause.
 
-THis recording in small pieces and pausing is effectively editing while you record.
+This recording in small pieces and pausing is effectively editing while you record.
 
 :zap: **record high quality content bites to avoid editing hassles**
 
-You want to avoid a situation where you are doing intense editing to move audio and video snippets around to build a quilt like final product. **This** is the most tedious thing you could do to yourself, so by recording in small paragraph bites, you can get better takes, and by pausing inbetween each section, you can see visibly where you need to **ripple delete** and build your final product with minimal aggravation!
+You want to avoid a situation where you are doing intense editing to move audio and video snippets around to build a quilt like final product. **This** is the most tedious thing you could do to yourself, so by recording in small paragraph bites, you can get better takes, and by pausing in between each section, you can see visibly where you need to **ripple delete** and build your final product with minimal aggravation!
 
-You do want to go back and make sure you edit out mouth noises and excessive "um"s. If you find yourself having to edit these out, it might take some pre-thought to avoid including them in the first place. 
+You do want to go back and make sure you edit out mouth noises and excessive "um"s. If you find yourself having to edit these out, it might take some pre-thought to avoid including them in the first place.
 
-:zap: **the easiest way to edit is to capture it well ** 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+:zap: **the easiest way to edit is to capture it well **
