@@ -40,6 +40,9 @@ egghead.io courses have several styles. The most important aspects of a course a
 
 * **Cookbook**: You can also present a series of problems and solutions in the "cookbook" style. A typical recipe will include some common \(or maybe not so common\) problem, and then provide an example solution for the problem using the tool the cookbook is discussing. Trevor D. Miller's [React Testing Cookbook](https://egghead.io/courses/react-testing-cookbook) is a solid example of this approach.
 
+* **???**: You're smart and creative, and definitely not limited to any of the above. If you've got an idea, let's hear it!
+
+
 
 ## The Course Proposal
 
