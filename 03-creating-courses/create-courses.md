@@ -6,7 +6,7 @@ For egghead, courses are the natural extension of the individual lesson. A cours
 
 ## Lesson Autonomy
 
-Within a course, **each individual lesson should be as autonomous as possible**, covering its own individual topic as independently from the other lessons in the course.
+Within a course, **each individual lesson should be as autonomous as possible**, covering its own individual topic, independently from the other lessons in the course. Obviously the lessons **are** related, but that doesn't mean we can't make an effort to allow them to stand alone.
 
 :zap:** each lesson in a course should stand on its own as much as possible**
 
