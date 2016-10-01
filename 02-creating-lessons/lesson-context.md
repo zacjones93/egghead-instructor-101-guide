@@ -17,6 +17,14 @@ It also doesn't tell you why you need cream cheese, sugar, cookie dough, a mixer
 
 The text description is also an excellent location to provide additional context and references. Links to purchase ingredients, tools, or to learn prerequisites such as measuring and using an electric mixer.
 
+## **Your** voice.
+
+Right now you're reading a document that describes in some detail how you should create egghead.io lessons. It's a style guide, and consistent style is important.
+
+_Your voice is more important._
+
+This style guide is not intended to stifle your voice. We want you to be you! What this means in a practical sense is that you can consider your egghead.io lessons to be a conversation with a co-worker at your desk or over a screenshare. We just want that tightened up, like we've got all the pleasentries out of the way and let's get to the point of the conversation.
+
 ## Why are we here?
 
 Who knows! We know that the student wants to learn. We want to teach. They likely have a specific problem they are trying to solve. They are probably using multiple resources to build knowledge, and if we've done our job with solid titles and descriptions we can have a good idea of what it is they want to learn about.
