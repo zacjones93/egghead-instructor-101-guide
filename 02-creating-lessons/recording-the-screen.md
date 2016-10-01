@@ -26,6 +26,20 @@ We will typically work in a 3 column layout, with the editor taking up 2/3s and 
 
 It is important to keep in mind that some padding allowances should be considered for the top and bottom of the recording window, as they can get cut off by player chrome. For instance, if you're recording the terminal, commands towards the bottom might not be visible, and this can be frustrating/distracting.
 
+#### Plunker for web examples when possible
+Your development environment, text editor, and output for recording are up to you. When possible we want to use Plunker to embed code alongside the lessons. Each lesson will have the completed code solution presented in the video!
+
+For `console` output examples, [here is a Plunk](https://embed.plnkr.co/github/bclinkinbeard/egghead-d3v4/03-time-scales?show=src%2Fapp.js,preview) that demonstrates how to do that simply with JS by overriding `console.log`
+
+#### Github for more complex examples
+Sometimes we can't embed the code in a working fashion. This is true for examples that are part of larger applications that leverage webpack or something similar, or for examples that aren't web based at all. In these cases we prefer Github.
+
+Github examples should **include a README** that explains how to run them and use appropriate `npm` scripts for idiomatic usage.
+
+#### Fallback!
+
+If it just wont work in Plunker we also support JSBin and CodePen. We also allow you to just paste in some markdown.
+
 ### Resolution
 
 * 1280x720 (720p)
