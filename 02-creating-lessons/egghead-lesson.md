@@ -1,5 +1,9 @@
 ## What's an egghead lesson?
 
+This video will show you the differences between egghead and non-egghead style screencasts:
+
+[![egghead style](screenshots/egghead-style.png)](https://egghead.io/lessons/tools-create-a-self-contained-code-focused-screencast)
+
 A great lesson requires two things:
 
 * a desire to share knowledge

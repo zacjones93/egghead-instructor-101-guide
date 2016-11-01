@@ -1,5 +1,9 @@
 ## Recording High-Quality Coding Screencasts
 
+This video will show you how to prepare your screen for recording:
+
+[![Recording prep](screenshots/recording-prep.png)](https://egghead.io/lessons/tools-prepare-the-computer-desktop-for-screencast-recording)
+
 This is the nuts and bolts of what we do at egghead.io. We sit down, prepare our screens, and record complicated technical concepts to share with other developers around the world.
 
 Screencasting is not easy. It's freaking hard, actually. It is a learned skill that takes consistent practice over time.
@@ -109,6 +113,10 @@ For video capture, on a Mac we can use ScreenFlow, Camtasia, or IShowU HD. On Wi
 
 #### Recording Video
 
+This video will show you how you can record in "chunks":
+
+[![Recording in chunks](screenshots/recording-in-chunks.png)](https://egghead.io/lessons/tools-capture-video-and-audio-in-bite-sized-chunks)
+
 [ScreenFlow](https://www.telestream.net/screenflow/) and Camtasia both provide editing features. We tend to prefer ScreenFlow, and egghead.io instructors are all provided any software licenses you might need.
 
 The decision on which software you use is up to you. Many instructors prefer the standalone simplicity of ScreenFlow.
@@ -140,6 +148,10 @@ It can be challenging to sync and get a natural feeling with narration. Like mos
 
 #### Editing
 
+This video will show you how you can can edit with ripple delete:
+
+[![Editing](screenshots/editing.png)](https://egghead.io/lessons/tools-edit-a-screencast-for-publication)
+
 Editing is a skill. It takes time to become proficient, and it can be tedious until then.
 
 :zap: **ripple delete is your greatest ally!**
@@ -160,4 +172,8 @@ You want to avoid a situation where you are doing intense editing to move audio 
 
 You do want to go back and make sure you edit out mouth noises and excessive "um"s. If you find yourself having to edit these out, it might take some pre-thought to avoid including them in the first place.
 
-:zap: **the easiest way to edit is to capture it well **
+:zap: **the easiest way to edit is to capture it well**
+
+This video shows the result of an egghead style lesson after editing:
+
+[![Final result](screenshots/final-result.png)](https://egghead.io/lessons/tools-review-final-screencast-result)
