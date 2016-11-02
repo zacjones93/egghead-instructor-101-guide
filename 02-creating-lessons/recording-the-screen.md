@@ -1,9 +1,5 @@
 ## Recording High-Quality Coding Screencasts
 
-This video will show you how to prepare your screen for recording:
-
-[![Recording prep](screenshots/recording-prep.png)](https://egghead.io/lessons/tools-prepare-the-computer-desktop-for-screencast-recording)
-
 This is the nuts and bolts of what we do at egghead.io. We sit down, prepare our screens, and record complicated technical concepts to share with other developers around the world.
 
 Screencasting is not easy. It's freaking hard, actually. It is a learned skill that takes consistent practice over time.
@@ -19,6 +15,10 @@ This is about mechanics! The technical aspects of presentation and accessibility
 If we maximize the legibility of the code we are presenting, it will help all learners to absorb the information to the best of their abilities.
 
 Small fonts, blurry text, and low-contrast color schemes all distract and distract the user from the primary object: learning.
+
+This video will show you how to prepare your screen for recording:
+
+[![Recording prep](screenshots/recording-prep.png)](https://egghead.io/lessons/tools-prepare-the-computer-desktop-for-screencast-recording)
 
 ### The Code
 
@@ -113,10 +113,6 @@ For video capture, on a Mac we can use ScreenFlow, Camtasia, or IShowU HD. On Wi
 
 #### Recording Video
 
-This video will show you how you can record in "chunks":
-
-[![Recording in chunks](screenshots/recording-in-chunks.png)](https://egghead.io/lessons/tools-capture-video-and-audio-in-bite-sized-chunks)
-
 [ScreenFlow](https://www.telestream.net/screenflow/) and Camtasia both provide editing features. We tend to prefer ScreenFlow, and egghead.io instructors are all provided any software licenses you might need.
 
 The decision on which software you use is up to you. Many instructors prefer the standalone simplicity of ScreenFlow.
@@ -129,6 +125,10 @@ You can "kick it up a notch BAM!💥" and move into more sophisticated editing t
 * [John Lindquist doing some diting in Premiere](https://www.youtube.com/watch?v=_YqhKP-yZzo&index=1&list=PL219naRJXQKbQJ60WxsuGfTFv7_fvna51)
 * [JS Leonard walks through his process using Premiere](https://www.youtube.com/watch?v=faINApx4-4g&list=PL219naRJXQKbQJ60WxsuGfTFv7_fvna51&index=2)
 * [Joel Hooks does voice over and editing in Premiere](https://www.youtube.com/watch?v=faINApx4-4g&list=PL219naRJXQKbQJ60WxsuGfTFv7_fvna51&index=2)
+
+This video will show you how you can record in "chunks":
+
+[![Recording in chunks](screenshots/recording-in-chunks.png)](https://egghead.io/lessons/tools-capture-video-and-audio-in-bite-sized-chunks)
 
 #### Capturing Audio Separately
 
@@ -147,10 +147,6 @@ When you record the audio first, you can playback the audio and record video to 
 It can be challenging to sync and get a natural feeling with narration. Like most things, it takes practice.
 
 #### Editing
-
-This video will show you how you can can edit with ripple delete:
-
-[![Editing](screenshots/editing.png)](https://egghead.io/lessons/tools-edit-a-screencast-for-publication)
 
 Editing is a skill. It takes time to become proficient, and it can be tedious until then.
 
@@ -173,6 +169,10 @@ You want to avoid a situation where you are doing intense editing to move audio 
 You do want to go back and make sure you edit out mouth noises and excessive "um"s. If you find yourself having to edit these out, it might take some pre-thought to avoid including them in the first place.
 
 :zap: **the easiest way to edit is to capture it well**
+
+This video will show you how you can can edit with ripple delete:
+
+[![Editing](screenshots/editing.png)](https://egghead.io/lessons/tools-edit-a-screencast-for-publication)
 
 This video shows the result of an egghead style lesson after editing:
 
