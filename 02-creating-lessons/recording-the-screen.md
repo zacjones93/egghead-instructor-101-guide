@@ -107,6 +107,26 @@ The most important thing to consider is **why the user is watching the lesson**.
 
 Now that the screen is ready to record, we will look at how to do that on your platform.
 
+#### Command Line Prompt
+
+If you will be showing your command line, we suggest using a minimal prompt to reduce distractions. Here is an example of a minimal prompt that works well for screencasting:
+
+![Example command line prompt](screenshots/example-command-line-prompt.png)
+
+You can use this one by updating your `~/.bashrc` or `~/.zshrc` with the following:
+
+```
+export PS1="\n\[\e[32m\]\W\n\[\e[m\]\[\e[34m\]\\$\[\e[m\] "
+```
+
+Note that if you are on Mac and using Bash, you will also need to add a `~/.bash_profile` with the following:
+
+```
+source $HOME/.bashrc
+```
+
+This tells Mac to load your `~/.bashrc` when loading a terminal emulator.
+
 ### Capture and Editing
 
 For video capture, on a Mac we can use ScreenFlow, Camtasia, or IShowU HD. On Windows, we stick to Camtasia. There are other tools available for those platforms, but we generally stick to these as they cover most use cases.
