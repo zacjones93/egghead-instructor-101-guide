@@ -13,6 +13,10 @@ A great lesson requires two things:
 
 We aren't looking for that either. We want to see concise efficient knowledge transfer that respects **your** time, and the time of the student as well. Nothing fancy. We don't want fancy, we want badass. That's you. Teach us what you know.
 
+This video will show you the differences between egghead and non-egghead style screencasts:
+
+[![egghead style](screenshots/egghead-style.png)](https://egghead.io/lessons/tools-create-a-self-contained-code-focused-screencast)
+
 ### Three Pillars of egghead
 
 #### Respect the audience

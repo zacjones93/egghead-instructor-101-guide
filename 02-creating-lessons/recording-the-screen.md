@@ -16,6 +16,10 @@ If we maximize the legibility of the code we are presenting, it will help all le
 
 Small fonts, blurry text, and low-contrast color schemes all distract and distract the user from the primary object: learning.
 
+This video will show you how to prepare your screen for recording:
+
+[![Recording prep](screenshots/recording-prep.png)](https://egghead.io/lessons/tools-prepare-the-computer-desktop-for-screencast-recording)
+
 ### The Code
 
 ⚡️ **The code is the champion of an egghead.io screencast**.
@@ -103,6 +107,26 @@ The most important thing to consider is **why the user is watching the lesson**.
 
 Now that the screen is ready to record, we will look at how to do that on your platform.
 
+#### Command Line Prompt
+
+If you will be showing your command line, we suggest using a minimal prompt to reduce distractions. Here is an example of a minimal prompt that works well for screencasting:
+
+![Example command line prompt](screenshots/example-command-line-prompt.png)
+
+You can use this one by updating your `~/.bashrc` or `~/.zshrc` with the following:
+
+```
+export PS1="\n\[\e[32m\]\W\n\[\e[m\]\[\e[34m\]\\$\[\e[m\] "
+```
+
+Note that if you are on Mac and using Bash, you will also need to add a `~/.bash_profile` with the following:
+
+```
+source $HOME/.bashrc
+```
+
+This tells Mac to load your `~/.bashrc` when loading a terminal emulator.
+
 ### Capture and Editing
 
 For video capture, on a Mac we can use ScreenFlow, Camtasia, or IShowU HD. On Windows, we stick to Camtasia. There are other tools available for those platforms, but we generally stick to these as they cover most use cases.
@@ -121,6 +145,10 @@ You can "kick it up a notch BAM!💥" and move into more sophisticated editing t
 * [John Lindquist doing some diting in Premiere](https://www.youtube.com/watch?v=_YqhKP-yZzo&index=1&list=PL219naRJXQKbQJ60WxsuGfTFv7_fvna51)
 * [JS Leonard walks through his process using Premiere](https://www.youtube.com/watch?v=faINApx4-4g&list=PL219naRJXQKbQJ60WxsuGfTFv7_fvna51&index=2)
 * [Joel Hooks does voice over and editing in Premiere](https://www.youtube.com/watch?v=faINApx4-4g&list=PL219naRJXQKbQJ60WxsuGfTFv7_fvna51&index=2)
+
+This video will show you how you can record in "chunks":
+
+[![Recording in chunks](screenshots/recording-in-chunks.png)](https://egghead.io/lessons/tools-capture-video-and-audio-in-bite-sized-chunks)
 
 #### Capturing Audio Separately
 
@@ -160,4 +188,12 @@ You want to avoid a situation where you are doing intense editing to move audio 
 
 You do want to go back and make sure you edit out mouth noises and excessive "um"s. If you find yourself having to edit these out, it might take some pre-thought to avoid including them in the first place.
 
-:zap: **the easiest way to edit is to capture it well **
+:zap: **the easiest way to edit is to capture it well**
+
+This video will show you how you can can edit with ripple delete:
+
+[![Editing](screenshots/editing.png)](https://egghead.io/lessons/tools-edit-a-screencast-for-publication)
+
+This video shows the result of an egghead style lesson after editing:
+
+[![Final result](screenshots/final-result.png)](https://egghead.io/lessons/tools-review-final-screencast-result)

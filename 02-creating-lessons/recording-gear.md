@@ -65,3 +65,10 @@ XLR is a type of plug that is used in professional audio applications.
 
 > **TODO** Some videos for gear setup?
 
+#### Check Audio Input Levels
+
+Once your gear is set up, you'll need to check the audio input levels to make sure your gain is set properly.
+
+This video will show you how to check your audio input levels:
+
+[![Audio input levels](screenshots/audio-input-levels.png)](https://egghead.io/lessons/tools-verify-my-gear-is-properly-set-up)
