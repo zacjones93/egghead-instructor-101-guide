@@ -3,3 +3,4 @@
   "description": "This guide will help you on your journey to teaching on egghead.io.",
   "plugins" : ["advanced-emoji", "prism", "-highlight", "hints"]
 }
+
