@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [You've been invited!](01-invited/invited.md)
     * [Your First Lesson](01-invited/first-lesson.md)
-    * [Getting Published](01-invited/getting-published.md)
     * [Getting Paid](01-invited/getting-paid.md)
     * [Contracts](01-invited/legal.md)
 * [Making Lessons egghead.io Style](02-creating-lessons/create-lessons.md)
