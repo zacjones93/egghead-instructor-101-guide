@@ -1,4 +1,12 @@
-# You're an expert.
+# Instructor 101 Guide
+
+<img
+  src='./images/artwork/instructor-eggo-with-accessories.png'
+  alt='egghead.io instructor eggo with accessories'
+  style='width: 250px;'
+/>
+
+## You're an expert.
 
 Maybe you already know this, but if not, we are here to let you know that you are. Not only are you an expert, but your knowledge can be shared with others to help them improve their code, learn new technologies, and stay relevant in the world of software development.
 

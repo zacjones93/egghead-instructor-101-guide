@@ -71,4 +71,4 @@ Once your gear is set up, you'll need to check the audio input levels to make su
 
 This video will show you how to check your audio input levels:
 
-[![Audio input levels](screenshots/audio-input-levels.png)](https://egghead.io/lessons/tools-verify-my-gear-is-properly-set-up)
+[![Audio input levels](../images/screenshots/audio-input-levels.png)](https://egghead.io/lessons/tools-verify-my-gear-is-properly-set-up)
