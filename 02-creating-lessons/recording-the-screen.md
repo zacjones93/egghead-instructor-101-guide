@@ -18,7 +18,7 @@ Small fonts, blurry text, and low-contrast color schemes all distract and distra
 
 This video will show you how to prepare your screen for recording:
 
-[![Recording prep](screenshots/recording-prep.png)](https://egghead.io/lessons/tools-prepare-the-computer-desktop-for-screencast-recording)
+[![Recording prep](../images/screenshots/recording-prep.png)](https://egghead.io/lessons/tools-prepare-the-computer-desktop-for-screencast-recording)
 
 ### The Code
 
@@ -111,7 +111,7 @@ Now that the screen is ready to record, we will look at how to do that on your p
 
 If you will be showing your command line, we suggest using a minimal prompt to reduce distractions. Here is an example of a minimal prompt that works well for screencasting:
 
-![Example command line prompt](screenshots/example-command-line-prompt.png)
+![Example command line prompt](../images/screenshots/example-command-line-prompt.png)
 
 You can use this one by updating your `~/.bashrc` or `~/.zshrc` with the following:
 
@@ -148,7 +148,7 @@ You can "kick it up a notch BAM!💥" and move into more sophisticated editing t
 
 This video will show you how you can record in "chunks":
 
-[![Recording in chunks](screenshots/recording-in-chunks.png)](https://egghead.io/lessons/tools-capture-video-and-audio-in-bite-sized-chunks)
+[![Recording in chunks](../images/screenshots/recording-in-chunks.png)](https://egghead.io/lessons/tools-capture-video-and-audio-in-bite-sized-chunks)
 
 #### Capturing Audio Separately
 
@@ -192,8 +192,8 @@ You do want to go back and make sure you edit out mouth noises and excessive "um
 
 This video will show you how you can can edit with ripple delete:
 
-[![Editing](screenshots/editing.png)](https://egghead.io/lessons/tools-edit-a-screencast-for-publication)
+[![Editing](../images/screenshots/editing.png)](https://egghead.io/lessons/tools-edit-a-screencast-for-publication)
 
 This video shows the result of an egghead style lesson after editing:
 
-[![Final result](screenshots/final-result.png)](https://egghead.io/lessons/tools-review-final-screencast-result)
+[![Final result](../images/screenshots/final-result.png)](https://egghead.io/lessons/tools-review-final-screencast-result)

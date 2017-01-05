@@ -15,7 +15,7 @@ We aren't looking for that either. We want to see concise efficient knowledge tr
 
 This video will show you the differences between egghead and non-egghead style screencasts:
 
-[![egghead style](screenshots/egghead-style.png)](https://egghead.io/lessons/tools-create-a-self-contained-code-focused-screencast)
+[![egghead style](../images/screenshots/egghead-style.png)](https://egghead.io/lessons/tools-create-a-self-contained-code-focused-screencast)
 
 ### Three Pillars of egghead
 
