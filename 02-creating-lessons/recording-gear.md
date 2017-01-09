@@ -19,7 +19,13 @@ This kit is minimal, and comes packed in a waterproof Pelican case. The case con
 * 1 XLR Cable to connect the Microphone to the USB Interface
 * Badass by Kathy Sierra
 
-This setup has 2 cables and a couple of knobs to get setup. We will go through each piece individually and discuss what it is and why it is in the box.
+This setup has 2 cables and a couple of knobs to get setup.
+
+This video will show you how to set up your gear:
+
+[![Set up egghead audio gear to record lessons](../images/screenshots/gear.png)](https://egghead.io/lessons/tools-setup-egghead-audio-gear-to-record-lessons)
+
+We will go through each piece individually and discuss what it is and why it is in the box.
 
 #### Microphone Boom
 
@@ -55,15 +61,11 @@ This mic is built for professional audio applications and not necessarily for ca
 * :zap: **Turn the gain up!**
 * :zap: **Set to Mic/Line**
 
-
-
 #### XLR Cable
 
 XLR is a type of plug that is used in professional audio applications.
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/2i393q1J0H0Y1O192Y1E/Image%202016-04-19%20at%201.38.59%20PM.jpg?v=0fed5337)
-
-> **TODO** Some videos for gear setup?
 
 #### Check Audio Input Levels
 
