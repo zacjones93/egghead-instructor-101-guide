@@ -1,5 +1,7 @@
 # What is egghead.io?
 
+![](https://d1xwtr0qwr70yv.cloudfront.net/assets/elements/logo-mobile-0012236aa1a9766db6b0cc9705df19ec.svg)
+
 egghead.io is a website dedicated to providing high quality, concise web development screencasts. Our primary mission is to help make the web a better place for us all. We've got a deep love for open-source software and the communities that surround the work being done in that area. Like many people reading this, we owe so much to the efforts of the amazing humans that contribute to open-source software every single day.
 
 An egghead.io screencast is different from other screencasts. We don't like long drawn out lectures. This means that we keep it concise, with minimal "fluff". Somebody watching egghead.io screencasts is busy, and we respect their time very much.
@@ -44,62 +46,75 @@ Along with the instructor profile, you will be asked to review, and e-sign our s
 
 Once you have created an instructor profile, you will receive an invitation to our Slack channel. It's a great room where we discuss all things related to web development, and enjoy banter with lots of interesting humans. Much like your lifetime PRO access to egghead content, your access to the Slack room is for life as well. We've got a general code of conduct that we ask all participants to follow, but we haven't had any (and don't expect to have any) issues in that regard. It's a warm safe place filled with lots of kind and helpful people like yourself 😄
 
+### The channels in egghead.io Slack
 
+There are several channels that we use to communicate within the egghead.io Slack. Several of them are specific to instructors and lesson creation, and there are a few that are just for fun. As with any Slack group, direct messages are a great way to keep in touch with other members of the community.
 
+#### Your private instructor channel
 
-# You're invited to teach on egghead.io
+All new instructors will start out with a private conversation with the egghead.io team to help get your first lesson published. This is where you can freely ask any questions you might have and brainstorm ideas for your first lessons and courses. We are here to help you succeed!
 
-Congrats! :tada:
+#### #egghead-chat
 
-We are excited to work with you and help teach people how to become better programmers.
+This is the "water cooler" channel, where basically anything goes (within the [general code of conduct](), or course). Many egghead instructors are freelancers or work at home, so this gives us a place to socialize and talk about programming and industry stuff. It is noisy, so many people choose to turn off notifications for this room.
 
-There are a few things that we want to let you know to get started. You aren't on your own, we are here to help as much as possible. To be your concierge, and eliminate as much pain as possible from the process of creating awesome bite-sized video tutorials on egghead.io.
+#### #egghead-instructors
 
-You should have received two things. An invitation to the egghead Slack chat, and a link to set up your instructor profile on egghead.io. If you haven't received either of those, be sure to contact whoever invited you and ask them "what's up?"
+This room is meant to discuss the craft and act of creating **bite-sized code videos**. It's a great place to solicit feedback from other instructors and the egghead.io team about your latest lesson ideas, course proposals, or drafts. We've got an amazing group of experienced instructors that are happy to help you. We recommend using that to your full advantage. We've done a lot of this, so there is no reason to struggle alone.
 
-It is likely that the person that invited you to teach on egghead.io will also be your **mentor** and primary point of contact as you work towards getting your first lessons and courses published.
+#### #egghead-publishing-queue
 
-> If you weren't invited to teach on egghead.io, continue reading! Follow the guidelines, review existing lessons, and record an "audition". Post that to YouTube, and tweet [@eggheadio](https://twitter.com/eggheadio). 
+This is a channel where lesson publishing activity is announced by bots. When a lesson is uploaded, or a course/lesson is published, it is announced in this channel automatically. 
 
-## Your Mentor
-
-egghead.io doesn't have an open call for submissions for lessons. This means that you were invited by somebody to create a lesson. The person that invited you is **your mentor** (or will introduce you to your mentor)
-
-## Instructor Profile
-
-Your invitation link should take you to the form so that you can create an instructor profile and an egghead.io account if you don't have one. 
-
-Creating your instructor profile will give you **lifetime access to egghead.io free of charge**.
-
-Your instructor profile is not public until you've published your first lesson. 
-
-## Slack Channel
-
-We love Slack, and our channel is an amazing mix of developers from around the globe. It is open to egghead instructors and people working on getting lessons published on egghead.
-
-There are several chats available. We're just going to talk about a few real quick so that you can get your bearings when you land!
-
-### egghead-chat
-
-This is the "water cooler" and general discussion area. When you enter the chat for the first time, please introduce yourself and maybe provide a link to something that you work on or the spot where you blog on the internet.
-
-The general chat can be a little noisy, so you might want to adjust your notification and do-not-disturb settings in Slack to match your preferences. 
-
-The general chat is free to discuss anything you are interested in. We've got a [code of conduct]() that we ask all participants in the Slack channel to respect.
-
-> **TODO** code of conduct for slack
-
-### egghead-instructors
-
-This room is meant to discuss the craft and act of creating **bite-sized code videos**. When an instructor uploads a new lesson, it is announced in this chat.
-
-### egghead-lesson-ideas
+#### #egghead-lesson-ideas
 
 There are so many things to teach about in the world of web development. When we see something interesting or get a request, it gets dropped in here. If you can't think of anything to record a lesson about, ask in here with `@joel`. I've almost always got something :simple_smile:!
 
-## The example.
+We've got other channels for specific topics like music & tv, fitness, functional programming, and podcasts. Like most Slack groups, members are free to make public and private channels, add emoji, and even integrations. Use your good judgement, and if you have any questions please feel free to ask. That's what we're here for!
 
-We are going to start with the example. The example is important, because it is the basis of creating a quality egghead lesson. The example will take the tool or technique you want to demonstrate, and inform the best way to get there.
+## Your egghead.io instructor mentor
+
+Your success is the number one priority at egghead.io. We want you to create world-class screencasts in the bite-sized format that egghead.io members expect. We've found that it is a huge help to have somebody work closely with you for the first few lessons you create, all the way through your first course and beyond.
+
+To help achieve this, you are paired with an instructor mentor that will assist you and provide the support and feedback you need to get those first lessons published as painlessly as possible.
+
+Your mentor will be a seasoned instructor that knows the ropes and will guide you through the shortcuts so that you avoid the common pitfalls that you might run into otherwise. As with most things, screencasting is a hard earned skill, so depending on your experience you might need more support from your mentor or less, but don't hesitate to ask questions.
+
+Alongside your mentor, you will also have direct access to egghead's founders John Lindquist and Joel Hooks to help ensure your continued success. They are 100% dedicated to you and the rest of the egghead instructors. You are their first priority. Period.
+
+
+
+
+
+# Publish Your First Lesson 
+
+There's a chance that you are a seasoned veteran that has recorded many screencasts in the past and will need very little direction to start recording egghead lessons. If that's the case, awesome, but if it isn't, don't worry. We've got your back!
+
+Creating screencasts is hard. It's a learned skill. It can feel weird. You can get the feeling of stage fright sitting in the comfort of your own home office staring at your monitor with nobody else in the room.
+
+Totally normal!
+
+These feelings _thankfully_ fade over time as you learn the skill of creating bite-sized video lessons.
+
+## Write a lesson title and summary
+
+The first thing we look for is a title and summary for your first lesson. The titles and summaries are super important, and we will hammer on them quite a bit as you get started creating egghead lessons. Armed with a solid title and lesson summary, creating lessons is a much more straight forward. It's where we like to start so that you are set up for success straight away.
+
+The first step is top write out a quick summary that explains what the lesson is about. This should be fairly short, a paragraph of text, that lets the viewer know what concept they will learn in this lesson. 
+
+With the summary complete, you can write the title. The title is a _summary of the summary_ and should describe the context of what the viewer is about to learn. Imagine a stack of lesson titles, with thousands of lessons. The title should let the viewer know what they are about to learn so they can easily decide if this lesson is appropriate for their current goals. The title and the summary are what will be displayed in search results, and guide the viewer towards your lessons and courses.
+
+They are very important, but don't worry, we will help you out so just do your best and we will help shape it. For your first lesson, we don't want to worry about perfection or "spin the wheels" too much.
+
+Just think about something that would be useful to a developer. A tool, a technique, or a practice that you've used in the past. Don't worry about repeating content that might exist on egghead already. We aren't concerned about that. Don't worry about pre-requisites, or that the topic will absolutely need at least 30 lessons to cover completely. There is plenty of time for that. 
+
+Keep the lesson focused on a single concept. We've got plenty of time to explain the rest!
+
+Once you've got a lesson summary and title draft written, share it in Slack in your private instructor channel. We'll give you feedback and ask for changes if any are required.
+
+## Create an example for the lesson
+
+The example is important, because it is the basis of creating a quality egghead lesson. The example will take the tool or technique you want to demonstrate, and inform the best way to get there.
 
 You will work with your mentor to solidify the theme, scope, and goals of an example. This example will serve as the basis for your first egghead lesson.
 
@@ -129,7 +144,7 @@ Most examples should work in a tool like [Plunkr](https://plnkr.co/), our prefer
 
 We will keep it simple! There is a reason the TODO list is such a popular example. It is "lame" and you might be bored of it, but simple examples \(especially more common examples\) are excellent for teaching. The more complex the example application, the more nuanced the **domain concerns** and the more time we have to spend covering that.
 
-If we work towards simplicity, and not put too much effort into creating a novel and fun example, we actually do a service for our viewers by maximising their learning efforts. We focus them on the concept we want them to learn, and more effectively cement it in their brain.
+If we work towards simplicity, and not put too much effort into creating a novel and fun example, we actually do a service for our viewers by maximizing their learning efforts. We focus them on the concept we want them to learn, and more effectively cement it in their brain.
 
 **Small, high quality examples, in great frequency.**
 
@@ -143,33 +158,7 @@ This will be a great time to brainstorm for ideas, and discuss more lessons that
 
 Don't be surprised if the scope of your example is cut back. Knowing what to leave out is a challenge, and we will aggressively work towards that conciseness that we crave at egghead. The lesson should cover one topic, and one topic only. No more, no less.
 
-### **Choose a title and write a summary**
-
-Now that the example is in a good state, it's time to choose a title. Here's a formula for writing good titles.
-
-In your head \(or out loud. Go nuts!\) say the phrase "How do I..."
-
-_Update ref attributes._
-
-And then add the appropriate technology to the end such as "in React component." So "how do I..."
-
-_Update ref attributes in React components_ becomes the title of the lesson. This focuses the action on what the viewer should learn, and the title clearly defines the scope for the example you will teach. "I want to...", "can I...", or other phrases would work here too!
-
-Now you want to write a quick summary. Think of the short block of text you see under a link when you are searching on Google. Literally think of that exact box, because the summary is for that space! 2-3 sentences that describe what we will learn in your lesson.
-
-The summary and title aren't set in stone, we can iterate on those too, so don't worry. We aren't striving for perfection.
-
-## Your First Lesson Video
-
-Making _anything_ is an accomplishment. Creating screencasts is hard. It's a learned skill. It can feel weird. You can get the feeling of stage fright sitting in the comfort of your own home office staring at your monitor with nobody else in the room.
-
-Totally normal!
-
-It also \(thankfully\) fades over time as you learn the skill of creating bite-sized video lessons.
-
-For a draft lesson, we aren't looking for polish. We want to see something quick and rough.
-
-### A very rough draft.
+## Record a rough draft.
 
 Imagine that you are sitting next to a coworker, and want to show them a cool new piece of technology that you just learned.
 
@@ -199,7 +188,9 @@ Now that the draft is complete, share it with your mentor using Slack. Ask your 
 
 Your mentor knows what we are looking for!
 
-## Getting Paid
+Once they give you a thumbs up, upload your lesson to egghead.io for final review and publication.
+
+# Getting Paid
 
 egghead.io instructors receive royalties for their lessons. :moneybag:
 
@@ -217,7 +208,7 @@ It can range from "lunch money" to "paying the bills!", and varies mostly based 
 
 In general we favor the approach of making interesting and useful content versus min/maxing the numbers to squeeze the most dollars out of the content. We don't produce sponsored content or run ads on a regular basis.
 
-## Making Money Online
+## Make real money teaching on egghead.io
 
 The course is the bread and butter of egghead.io. It's what people ultimately want to see. People absolutely crave _curation_. That's what an egghead.io course **is**: curated knowledge.
 
@@ -257,25 +248,17 @@ Sound good to you?
 
 ![](https://d3vv6lp55qjaqc.cloudfront.net/items/3v3m2i0j1k3g0p1q070z/Image%202016-09-29%20at%201.48.51%20PM.gif?v=25e3f936)
 
-## Self-published one-off lessons
 
-**If you have 12+ lessons published, you can approve your own content**. Pushing "approve" will order transcripts (they cost money, so please push it when the lesson is ready!) for a lesson and move it to the "publishing queue". Lessons are published from this queue automatically every m-w-f. You will be shown a "publish" button as well, so you can publish your stuff whenever you want. 
 
-The one-off lessons is a **great** way to build your catalog, see a little revenue, and keep your screen-casting muscles strong in between courses.
+-
+# TODO: LESSON CREATION IN DEPTH BELOW HERE
 
-The expectation here is that you will create lessons that follow the egghead.io standards outlined in [the Instructor Guide](https://instructor.egghead.io). Give them good names, summaries, tags, and code samples. As control freaks, this is a big step for us 😂, but we trust you to publish your best. Feel free to [ask for feedback in the instructor channel on egghead.io Slack](https://eggheadio.slack.com/archives/egghead-instructors).
 
-![with great power](https://d3vv6lp55qjaqc.cloudfront.net/items/1X3d0U2x2I3Y060s1s0B/Image%202016-09-29%20at%204.44.02%20PM.gif?v=def0754b)
 
-Courses require [the proposal/approval process](https://instructor.egghead.io/03-creating-courses/create-courses.html), but if you publish a bunch of one-offs and decide that they would make a great course later? Let's talk about it!
 
-We're brainstorming a list of courses we'd love to see created, and will hopefully have time to create basic proposals for some of them too. When this happens, We'll let everybody know on Slack. 
 
-# Contracts
 
-We've got a [standard contributor agreement](https://docs.google.com/document/d/17jNT6R6SNb9OVYSnpTDqevMh80XZ8Gu3VeYoLZck0v4/edit?usp=sharing) that we supply to all instructors. The goal of the agreement is protect egghead from any mischief you might cause, leave **all ownership rights** to you the creator, and lay out the terms for payment.
 
-We use DocuSign for electronic signatures for these agreements. When the time comes, the agreement will be delivered to your email address for your signature.
 
 
 # Creating an egghead lesson
