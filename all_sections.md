@@ -96,6 +96,17 @@ Totally normal!
 
 These feelings _thankfully_ fade over time as you learn the skill of creating bite-sized video lessons.
 
+## Lesson publication checklist
+
+A lesson requires five things to be published:
+1. Title
+2. Summary
+3. Tag(s)
+4. Code example
+5. Video
+
+As you use [the egghead Instructor Center](https://instructor.egghead.io), it will help you through each of these pieces.
+
 ## Write a lesson title and summary
 
 The first thing we look for is a title and summary for your first lesson. The titles and summaries are super important, and we will hammer on them quite a bit as you get started creating egghead lessons. Armed with a solid title and lesson summary, creating lessons is a much more straight forward. It's where we like to start so that you are set up for success straight away.
@@ -189,6 +200,18 @@ Now that the draft is complete, share it with your mentor using Slack. Ask your 
 Your mentor knows what we are looking for!
 
 Once they give you a thumbs up, upload your lesson to egghead.io for final review and publication.
+
+## Lesson review & approval
+
+Once the steps above are complete, your lesson is ready to be reviewed for approval and publishing. when you have published at least 12 lessons published, you are able to approve your own lessons. Once your lesson has been approved, it is placed in the lesson publishing queue - unless it is a part of a course which we'll discuss in more depth later on.
+
+## Unlocking self-approval and publishing
+
+After you've published 12+ lessons, you unlock the ability to approve and publish your own lessons 🎉. When you approve a lesson, a lesson transcript is ordered; transcripts cost money, so make sure your lesson is complete before you approve it. After approving a lesson, you can either let it get published automatically from the publishing queue, or push the publish button for it to published immediately.
+
+## Lesson publishing queue
+
+The lesson publishing queue automatically publishes lessons from top to bottom. The publishing schedule changes depending on how many lessons are in the queue from daily to a few times a week, so that there is a steady flow of new content being released. After publishing, lessons are added to the social media sharing queue which shares the newly published content across egghead social media accounts. Sometimes lessons are force published, which bypasses the queue to get an important lesson out earlier.
 
 # Getting Paid
 
@@ -787,7 +810,11 @@ egghead.io courses have several styles. The most important aspects of a course a
 
 * **???**: You're smart and creative, and definitely not limited to any of the above. If you've got an idea, let's hear it!
 
+# Course publishing
 
+When a lesson is a part of a course, approving it does not add it to the publishing queue; instead, the lesson is held in an approved state with the rest of the lessons in the course until the entire course is published. Although lessons inside a course can still be force published before the course is released, we normally wait to publish them together so that your course hype goes through the roof 💪.
+
+When your course is getting close to completion, the amazing egghead illustrators will start creating your custom course artwork. Once your course is complete, has been approved by a member of the egghead team, and has course artwork complete, it will be published; this generally takes a few weeks, but the timeframe depends on how many other courses are in progress. When a course is published, it gets the special treatment of an email announcement sent by Joel to all ~200k of the egghead subscribers 👏. This means huge exposure for you; it's pretty awesome.
 
 ## The Course Proposal
 
